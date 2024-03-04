@@ -11,40 +11,15 @@
         "region": "Caribe",
         "divisa": "Peso colombiano (COP)",
         "temperatura": 35,
-        "texto": [`Habíamos escuchado tantas veces el nombre de San Andrés que no podíamos dejar pasar la oportunidad
-        de visitar esta isla caribeña, así que durante nuestro viaje
-        por Colombia, decidimos pasar cuatro días allí. Cuatro días llenos de sorpresas, anécdotas y contrastes.
-        Y es que la primera sorpresa llegó ya en el aeropuerto Jose María Cordoba de Rionegro cuando, mientras la gente hacía fila para embarcar,
-        la azafata dijo por megafonía:
-        Por favor, tengan preparados los pasaportes, la tarjeta de embarque y la tarjeta de entrada a la isla.
-        Cuando escuchamos esto último casi se nos salen los ojos del sitio. Tarjeta de entrada a la isla??
-        Pues sí. Resulta que para entrar a San Andrés hay que pagar. Y da lo mismo si eres de Colombia o no, aquí todo el mundo paga a excepción
-        de los residentes de la isla.`, <br/>, <br/>,
-        
-        `La parte positiva de toda esta situación es que
-        la tarjeta de entrada la puedes comprar antes de subir al avión, así que en tierra no te vas a quedar por ese motivo. La parte negativa es que por
-        persona cuesta 138000 COP (~33€).`,<br/>,
-        `Una vez allí alquilamos una moto estilo scooter que nos costó 300000 COP (~70€) por tres días y fue lo mejor que pudimos hacer para movernos
-        y conocer toda la isla. La moto la habíamos reservado con antelación poniéndonos en contacto con Jairo antes de ir (dejamos los detalles de su contacto más abajo).`,<br/>, <br/>,
-        
-        `La segunda sorpresa para nosotros fue ver el estado en el que estaban las carreteras. Pensábamos que con el dinero que recaudaban por cada pasajero
-        las calles estarían cuidadas y limpias, pero no, nos tocó ir esquivando los huecos en la carretera con la moto, sobre todo en la zona céntrica,
-        que es la más turística. La zona sur de la isla la encontramos en mejores condiciones y más limpia.`],
-        Alojamiento: `Nos alojamos tres noches en Capi's place por 700000 COP (~170€) en habitación privada con baño y desayuno.
-        El sitio nos encantó ya que es super tranquilo al no estar en pleno centro. Tiene piscina y zonas verdes donde puedes relajarte
-        y el mar justo enfrente aunque es zona rocosa, no de playa.
-        `,
-        "recomendaciones": `Te recomendamos llevar siempre bloquedor solar y una botella de
-        agua contigo`,
+        "texto": "bla bla bla",
+        "recomendaciones": "te recomiendo bla bla bla",
         //Aqui escribes las cosas que se pueden hacer en el destino
         "ToDo": [
 
             //este segmento de aqui lo puedes copiar y pegar
             { "titulo": "Buceo en el mar Caribe",
                 "imagen": "https://www.sportalsub.net/blog/wp-content/uploads/2022/09/buceo-deporte1.jpg",
-                "texto": `Una Aventura obligatoria si eres amante de la vida
-                marina y la aventura. Bucear en las cristalinas aguas de san andres
-                "se siente casi como volar`,
+                "texto": "otro bla bla bla",
                 "precio": 10000,
                 "contacto": {
                 "nombre": "Divers team dive center",
