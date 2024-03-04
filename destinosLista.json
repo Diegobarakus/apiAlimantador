@@ -1,10 +1,8 @@
 [
-
-
     {
         "id": 1,
-        "imagenPrincipal": "url" ,
-        "galeria":["url1", "url2", "url3"],
+        "imagenPrincipal": "url",
+        "galeria": ["url1", "url2", "url3"],
         "titulo": "San Andrés",
         "continente": "America",
         "pais": "Colombia",
@@ -14,17 +12,17 @@
         "texto": "bla bla bla",
         "recomendaciones": "te recomiendo bla bla bla",
         "ToDo": {
-            { "titulo": "Buceo en el mar Caribe",
-                "imagen": "https://www.sportalsub.net/blog/wp-content/uploads/2022/09/buceo-deporte1.jpg",
-                "texto": "otro bla bla bla",
-                "precio": 10000,
-                "contacto": {
+            "titulo": "Buceo en el mar Caribe",
+            "imagen": "https://www.sportalsub.net/blog/wp-content/uploads/2022/09/buceo-deporte1.jpg",
+            "texto": "otro bla bla bla",
+            "precio": 10000,
+            "contacto": {
                 "nombre": "Divers team dive center",
                 "direccion": "Avenida Colombia 1-19",
                 "web": "www.diversteam.net"
             }
         },
         "redactado": "Aida",
-        "fechaPublicacion": "27.02.24",
-    } 
-  ]
+        "fechaPublicacion": "27.02.24"
+    }
+]
