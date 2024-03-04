@@ -28,5 +28,35 @@
             }
         },
         "fechaPublicacion": "27.02.24"
+    },
+
+
+    {
+        "id": 2,
+        "imagenPrincipal": "placeholder.png",
+        "galeria": [ "placeholder.png", "placeholder.png", "placeholder.png", "placeholder.png", "placeholder.png" ],
+        "titulo": "...",
+        "continente": "...",
+        "pais": "...",
+        "region": "...",
+        "divisa": "...",
+        "temperatura": 0,
+        "texto": ["...", "..."],
+        "Alojamiento": "...",
+        "recomendaciones": "...",
+        "ToDo": {
+            "titulo": "...",
+            "imagen": "...",
+            "texto": "...",
+            "precio": 0,
+            "contacto": {
+                "nombre": "...",
+                "direccion": "...",
+                "web": "..."
+            }
+        },
+        "fechaPublicacion": "..."
     }
+
+    
 ]
