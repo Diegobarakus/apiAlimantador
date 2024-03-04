@@ -51,13 +51,11 @@
     
     {
         "id": 2,
-        "imagenPrincipal": "placeholder.png",
+        "imagenPrincipal": "",
         "galeria": [
-            "placeholder.png",
-            "placeholder.png",
-            "placeholder.png",
-            "placeholder.png",
-            "placeholder.png"
+            "Peñol",
+            "Guatape calle paragüas colores",
+            "Guatape fuente colores"
         ],
         "titulo": "la Piedra del Peñol y Guatapé",
         "continente": "America",
@@ -93,13 +91,15 @@
 
     {
         "id": 3,
-        "imagenPrincipal": "placeholder.png",
+        "imagenPrincipal": "",
         "galeria": [
-            "placeholder.png",
-            "placeholder.png",
-            "placeholder.png",
-            "placeholder.png",
-            "placeholder.png"
+            "Valle Cocora bandera",
+            "Valle Cocora Aida columpio",
+            "valle Cocora AidayDiego",
+            "Valle Cocora flores",
+            "Valle Cocora",
+            "Salento vistas hotel",
+            "salento"
         ],
         "titulo": "Eje Cafetero & Salento",
         "continente": "America",
