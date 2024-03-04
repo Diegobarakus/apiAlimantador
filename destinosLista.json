@@ -2,7 +2,7 @@
     {
         "id": 1,
         "imagenPrincipal": "placeholder.png",
-        "galeria": [ "placeholder.png", "placeholder.png", "placeholder.png", "placeholder.png", "placeholder.png", ],
+        "galeria": [ "placeholder.png", "placeholder.png", "placeholder.png", "placeholder.png", "placeholder.png" ],
         "titulo": "San Andrés",
         "continente": "America",
         "pais": "Colombia",
