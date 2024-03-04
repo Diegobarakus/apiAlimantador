@@ -16,7 +16,9 @@
 "La segunda sorpresa para nosotros fue ver el estado en el que estaban las carreteras. Pensábamos que con el dinero que recaudaban por cada pasajero las calles estarían cuidadas y limpias, pero no, nos tocó ir esquivando los huecos en la carretera con la moto, sobre todo en la zona céntrica, que es la más turística. La zona sur de la isla la encontramos en mejores condiciones y más limpia."],
         "Alojamiento": "Nos alojamos tres noches en Capi's place por 700000 COP (~170€) en habitación privada con baño y desayuno. El sitio nos encantó ya que es super tranquilo al no estar en pleno centro. Tiene piscina y zonas verdes donde puedes relajarte y el mar justo enfrente aunque es zona rocosa, no de playa",
         "recomendaciones": "Te recomendamos llevar siempre bloquedor solar y una botella de agua contigo",
-        "ToDo": {
+        "ToDo": [
+            
+            {
             "titulo": "Buceo en el mar Caribe",
             "imagen": "placeholder.png",
             "texto": "Una experiencia obligatoria si eres amante de la playa y la naturaleza",
@@ -26,6 +28,8 @@
                 "direccion": "Avenida Colombia 1-19",
                 "web": "www.diversteam.net"
             }
+                
+                ]
         },
         "fechaPublicacion": "27.02.24"
     },
@@ -44,7 +48,9 @@
         "texto": [ "Salimos temprano de Medellín para ponernos rumbo a ver la famosa Piedra del Peñol, un monolito de 220 metros de altura. Por delante nos esperaban alrededor de dos horas de viaje con peaje incluido (16800 COP). Una vez llegamos al Peñol dejamos el coche en el parking que hay en la entrada, el cual nos costó 3000 COP por hora. Para poder acceder al Peñol hay que pasar por caja y comprar el ticket en la taquilla (25000 COP por persona). Cuando consigas subir los 740 peldaños... Enhorabuena! ahora a disfrutar de la vista! Ya abajo de nuevo se nos acercaron unas personas ofreciéndonos un tour en lancha por el embalse (o represa, como lo llaman allí) y decidimos hacerlo. En un primer momento nos pedían 60000 COP por tres personas, pero negociamos y al final nos costó 50000 COP. El recorrido duró una hora y nos fueron contando la historia y anécdotas de los sitios que ibamos viendo (las casas de los famosos, el pueblo hundido, la mansión donde Pablo Escobar guardaba las armas etc.). Disfrutamos mucho el paseo en lancha y recomendamos la experiencia al 100% Ya terminado el paseo en lancha volvimos al coche y de ahí a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal, que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paragüas.", "..." ],
         "Alojamiento": "...",
         "recomendaciones": "Ir durante la semana, ya que el fin de semana hay mucha más gente. Llevar agua y crema solar. Comida en el Bacchanal para 3 personas 140000 COP",
-        "ToDo": {
+        "ToDo": [
+            
+            {
             "titulo": "Recorrido en lancha",
             "imagen": "placeholder.png",
             "texto": "Recorrido por el agua a toda velocidad conociendo las casas de las celebridades",
@@ -54,6 +60,7 @@
                 "direccion": "direccion falsa 123",
                 "web": "www.paginaWeb.de"
             }
+                ]
         },
         "fechaPublicacion": "04.03.2024"
     },
@@ -71,7 +78,9 @@
         "texto": [ "EL viaje más largo que hicimos en coche por Colombia fue desde Medellín a Salento. Cinco horas de viaje y seis peajes (80000COP en total) después, por fin llegamos a este colorido pueblito! Dejamos las maletas en el hotel y sin descanso nos pusimos rumbo al Valle de Cocorá. Desde Salento al Valle se tarda una media hora y se puede ir en coche propio o en los tipicos Willys que salen de la plaza del ayuntamiento. Nosotros fuimos en coche y lo dejamos en un parking cerca del Valle por 10000 COP el día. Hay diferentes entradas y en todas hay que pagar si se quiere acceder a los típicos miradores y atracciones. Entramos por la segunda entrada que nos encontramos (20000 COP/persona) y nos dijeron que desde ahí se podían hacer diferentes recorridos. El más corto dura alrededor de una hora y media y hay otro recorrido que dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo.", "..." ],
         "Alojamiento": "Nos alojamos en el Hotel Balcones de Salento por 100000COP (~25€) la noche para dos personas con desayuno (Habitación doble con baño privado)",
         "recomendaciones": "`Ir durante la semana, ya que el fin de semana hay mucha más gente. Llevar agua, snacks, crema solar y spray antimosquitos. Cena en el Cacharrito, hamburguesas (con opciones vegetarianas) y bebidas para dos: 70000 COP`",
-        "ToDo": {
+        "ToDo": [
+            
+            {
             "titulo": "visitar el Cocora",
             "imagen": "placeholder.png",
             "texto": "Un lugar magico lleno de naturaleza",
@@ -81,6 +90,8 @@
                 "direccion": "...",
                 "web": "..."
             }
+                
+                ]
         },
         "fechaPublicacion": "..."
     }
