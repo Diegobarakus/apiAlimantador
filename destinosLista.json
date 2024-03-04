@@ -13,10 +13,7 @@
         "temperatura": 35,
         "texto": "bla bla bla",
         "recomendaciones": "te recomiendo bla bla bla",
-        //Aqui escribes las cosas que se pueden hacer en el destino
         "ToDo": [
-
-            //este segmento de aqui lo puedes copiar y pegar
             { "titulo": "Buceo en el mar Caribe",
                 "imagen": "https://www.sportalsub.net/blog/wp-content/uploads/2022/09/buceo-deporte1.jpg",
                 "texto": "otro bla bla bla",
@@ -27,7 +24,7 @@
                 "web": "www.diversteam.net"
             }
         ],
-        redactado: "Aida",
-        fechaPublicacion: "27.02.24",
+        "redactado": "Aida",
+        "fechaPublicacion": "27.02.24",
     } 
   ]
