@@ -13,7 +13,7 @@
         "temperatura": 35,
         "texto": "bla bla bla",
         "recomendaciones": "te recomiendo bla bla bla",
-        "ToDo": [
+        "ToDo": {
             { "titulo": "Buceo en el mar Caribe",
                 "imagen": "https://www.sportalsub.net/blog/wp-content/uploads/2022/09/buceo-deporte1.jpg",
                 "texto": "otro bla bla bla",
@@ -23,7 +23,7 @@
                 "direccion": "Avenida Colombia 1-19",
                 "web": "www.diversteam.net"
             }
-        ],
+        },
         "redactado": "Aida",
         "fechaPublicacion": "27.02.24",
     } 
