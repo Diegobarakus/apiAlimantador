@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "imagenPrincipal": "url",
+        "imagenPrincipal": "se ha hecho un cambio grande",
         "galeria": ["url1", "url2", "url3"],
         "titulo": "San Andrés",
         "continente": "America",
