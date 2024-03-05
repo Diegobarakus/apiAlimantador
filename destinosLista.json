@@ -50,7 +50,7 @@
                 "titulo": "Buceo en el mar Caribe",
                 "imagen": "San Andres mar buceo",
                 "texto": "Bucear con un equipo de instructores por 45 minutos en las cristalinas aguas de la isla. Una experiencia que se siente como volar con la vida marina. La parte dura es salir y sentarse en el bote. Diego se ha mareado.",
-                "precio": "190000 COP por persona",
+                "precio": 190000,
                 "contacto": {
                     "nombre": "Divers team dive center",
                     "direccion": "Avenida Colombia 1-19",
@@ -62,7 +62,7 @@
                 "titulo": "Alquiler de Scooter",
                 "imagen": "San Andres Aida moto",
                 "texto": "La mejor forma de moverse por la isla.",
-                "precio": "300000 COP por 3 días",
+                "precio": 100000,
                 "contacto": {
                     "nombre": "Jairo Tovar",
                     "direccion": "Avenida Boyacá Calle Las Proveedoras - San Andres Islas",
