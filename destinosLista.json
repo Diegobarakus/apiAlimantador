@@ -37,8 +37,11 @@
 
         
         "Alojamiento": ["Nos alojamos tres noches en Capi's place por 720000 COP (~170€) en habitación privada con baño y desayuno. El sitio nos encantó ya que es súper tranquilo al no estar en pleno centro. Tiene piscina, zonas verdes donde puedes relajarte y el mar justo enfrente, aunque es zona rocosa, no de playa.", 
+            
 "Orlando es el administrador del hotel y os aseguramos que con él no os vais a aburrir, ya que tiene cientos de historias para contar. También hay cuatro perritos y un gatito con los que podéis jugar." ,
+            
 "Anécdota: Un día estando en la piscina una iguana nos vino a hacer una visita :)."],
+        
         "recomendaciones": [
         "El día de buceo pasamos bastantes horas al sol y nos terminamos quemando, así que os recomendamos aplicaros mucho protector solar y llevar camisetas puestas.",
         "También para el resto de los días llevad protección como gorra, gafas de sol y no olvidéis la botella de agua",
@@ -49,7 +52,7 @@
             {
                 "titulo": "Buceo en el mar Caribe",
                 "imagen": "San Andres mar buceo",
-                "texto": "Bucear con un equipo de instructores por 45 minutos en las cristalinas aguas de la isla. Una experiencia que se siente como volar con la vida marina. La parte dura es salir y sentarse en el bote. Diego se ha mareado.",
+                "texto": "Bucear durante 45 minutos en las cristalinas aguas de la isla. Una experiencia que se siente como volar con la vida marina. La parte dura es salir y sentarse en el bote. Diego se mareó.",
                 "precio": 190000,
                 "contacto": {
                     "nombre": "Divers team dive center",
@@ -65,7 +68,7 @@
                 "precio": 100000,
                 "contacto": {
                     "nombre": "Jairo Tovar",
-                    "direccion": "Avenida Boyacá Calle Las Proveedoras - San Andres Islas",
+                    "direccion": "Avenida Boyacá Calle Las Proveedoras",
                     "web": "https://www.alquilerdemotosensanandres.com/"
                 }
             }
