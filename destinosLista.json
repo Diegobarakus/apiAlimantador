@@ -20,10 +20,15 @@
         "temperatura": 35,
         "texto": [
             "Habíamos escuchado tantas veces el nombre de San Andrés que no podíamos dejar pasar la oportunidad de visitar esta isla caribeña, así que durante nuestro viaje por Colombia, decidimos pasar cuatro días allí. Cuatro días llenos de sorpresas, anécdotas y contrastes. Y es que la primera sorpresa llegó ya en el aeropuerto Jose María Cordoba de Rionegro cuando, mientras la gente hacía fila para embarcar, la azafata dijo por megafonía: Por favor, tengan preparados los pasaportes, la tarjeta de embarque y la tarjeta de entrada a la isla. Cuando escuchamos esto último casi se nos salen los ojos del sitio. Tarjeta de entrada a la isla?? Pues sí. Resulta que para entrar a San Andrés hay que pagar. Y da lo mismo si eres de Colombia o no, aquí todo el mundo paga a excepción de los residentes de la isla.",
+            
+"La parte positiva de toda esta situación es que la tarjeta de entrada la puedes comprar antes de subir al avión, así que en tierra no te vas a quedar por ese motivo. La parte negativa es que por persona cuesta 138000 COP (~33€).",
+            
             "San Andres palmeras",
-            "San Andres Aida moto",
-            "La parte positiva de toda esta situación es que la tarjeta de entrada la puedes comprar antes de subir al avión, así que en tierra no te vas a quedar por ese motivo. La parte negativa es que por persona cuesta 138000 COP (~33€). Una vez allí alquilamos una moto estilo scooter que nos costó 300000 COP (~70€) por tres días y fue lo mejor que pudimos hacer para movernos y conocer toda la isla. La moto la habíamos reservado con antelación poniéndonos en contacto con Jairo antes de ir (dejamos los detalles de su contacto más abajo).",
-            "La segunda sorpresa para nosotros fue ver el estado en el que estaban las carreteras. Pensábamos que con el dinero que recaudaban por cada pasajero las calles estarían cuidadas y limpias, pero no, nos tocó ir esquivando los huecos en la carretera con la moto, sobre todo en la zona céntrica, que es la más turística. La zona sur de la isla la encontramos en mejores condiciones y más limpia.",
+            "San Andres mar turquesa",
+            
+"Una vez allí alquilamos una moto estilo scooter que nos costó 300000 COP (~70€) por tres días y fue lo mejor que pudimos hacer para movernos y conocer toda la isla. La moto la habíamos reservado con antelación poniéndonos en contacto con Jairo antes de ir (dejamos los detalles de su contacto más abajo).",
+            
+"La segunda sorpresa para nosotros fue ver el estado en el que estaban las carreteras. Pensábamos que con el dinero que recaudaban por cada pasajero las calles estarían cuidadas y limpias, pero no, nos tocó ir esquivando los huecos en la carretera con la moto, sobre todo en la zona céntrica, que es la más turística. La zona sur de la isla la encontramos en mejores condiciones y más limpia.",
 
 "Entre las actividades que hicimos en la isla la que más nos gustó fue hacer un mini-curso de buceo. Nos costó 190000 COP por persona y es el mejor recuerdo que nos llevamos de San Andrés. Empezamos a las 9:00 de la mañana con la parte teórica y sobre las 10:00 con la parte práctica en una zona de poca profundidad. Una vez listos nos llevaron en lancha a una zona alejada de la orilla y ya con los equipos puestos nos tiramos al agua. Buceamos a una profundidad de nueve metros y vimos corales, una raya y muchos pececitos. La temperatura del agua ronda los 28 grados así que no utilizamos traje de neopreno.",
 
@@ -31,29 +36,41 @@
         ],
 
         
-        "Alojamiento": ["Nos alojamos tres noches en Capi's place por 720000 COP (~170€) en habitación privada con baño y desayuno. El sitio nos encantó ya que es super tranquilo al no estar en pleno centro. Tiene piscina y zonas verdes donde puedes relajarte y el mar justo enfrente aunque es zona rocosa, no de playa.", 
-        
-"Algo gracioso que agregar son los personajes con los que te encuentras en Capi's place. Empezamos con su administrados Orlando, un personaje pintoresco y muy hablador que viene de Bogota. Se los advierto, le gusta mucho hablar! El pequeño hotel tiene cuatro perros que son adorables, todos por cierto un tanto viejitos y claro como no un gatito.", 
-            
-"Cuando estabamos en la piscina nos llevamos un susto de muerte con una iguana, pues si mi querido lector, de estos reptiles hay muchos en San Andrés."],
+        "Alojamiento": ["Nos alojamos tres noches en Capi's place por 720000 COP (~170€) en habitación privada con baño y desayuno. El sitio nos encantó ya que es súper tranquilo al no estar en pleno centro. Tiene piscina, zonas verdes donde puedes relajarte y el mar justo enfrente, aunque es zona rocosa, no de playa.", 
+"Orlando es el administrador del hotel y os aseguramos que con él no os vais a aburrir, ya que tiene cientos de historias para contar. También hay cuatro perritos y un gatito con los que podéis jugar." ,
+"Anécdota: Un día estando en la piscina una iguana nos vino a hacer una visita :)."],
         "recomendaciones": [
-        "El sol es muy fuerte, debes llevar protección como : Bloqueador solar, sombrero o gorra y gafas de sol. También deberías llevar una botella de agua contigo",
+        "El día de buceo pasamos bastantes horas al sol y nos terminamos quemando, así que os recomendamos aplicaros mucho protector solar y llevar camisetas puestas.",
+        "También para el resto de los días llevad protección como gorra, gafas de sol y no olvidéis la botella de agua",
         "LLeva siempre algo de dinero en efectivo, el comerciante colombiano no ofrece con frecuencia pagos con tarjeta",
         "Visita las playas en la zona no turistica de la isla. Estas suelen ser más limpias y calmadas.",
-        "Renta un vehículo si vas con poco tiempo, no es muy caro y podras visitar toda la isla con libertad de movilidad."],
+        "Alquila un vehículo, no es muy caro y podrás visitar toda la isla con libertad de movilidad."],
         "ToDo": [
             {
                 "titulo": "Buceo en el mar Caribe",
                 "imagen": "San Andres mar buceo",
                 "texto": "Bucear con un equipo de instructores por 45 minutos en las cristalinas aguas de la isla. Una experiencia que se siente como volar con la vida marina. La parte dura es salir y sentarse en el bote. Diego se ha mareado.",
-                "precio": 190000,
+                "precio": "190000 COP por persona",
                 "contacto": {
                     "nombre": "Divers team dive center",
                     "direccion": "Avenida Colombia 1-19",
                     "web": "https://www.diversteam.net/"
                 }
+            },
+
+             {
+                "titulo": "Alquiler de Scooter",
+                "imagen": "San Andres Aida moto",
+                "texto": "La mejor forma de moverse por la isla.",
+                "precio": "300000 COP por 3 días",
+                "contacto": {
+                    "nombre": "Jairo Tovar",
+                    "direccion": "Avenida Boyacá Calle Las Proveedoras - San Andres Islas",
+                    "web": "https://www.alquilerdemotosensanandres.com/"
+                }
             }
         ],
+
         "fechaPublicacion": "27.02.24"
     },
 
