@@ -88,7 +88,8 @@
         "galeria": [
             "Peñol",
             "Guatape calle paragüas colores",
-            "Guatape fuente colores"
+            "Guatape fuente colores",
+            "Lancha en guatape"
         ],
         "titulo": "la Piedra del Peñol y Guatapé",
         "continente": "America",
@@ -97,8 +98,7 @@
         "divisa": "Peso colombiano (COP)",
         "temperatura": 35,
         "texto": [
-            "Salimos temprano de Medellín para ponernos rumbo a ver la famosa Piedra del Peñol, un monolito de 220 metros de altura. Por delante nos esperaban alrededor de dos horas de viaje con peaje incluido (16800 COP). Una vez llegamos al Peñol dejamos el coche en el parking que hay en la entrada, el cual nos costó 3000 COP por hora. Para poder acceder al Peñol hay que pasar por caja y comprar el ticket en la taquilla (25000 COP por persona). Cuando consigas subir los 740 peldaños... Enhorabuena! ahora a disfrutar de la vista! Ya abajo de nuevo se nos acercaron unas personas ofreciéndonos un tour en lancha por el embalse (o represa, como lo llaman allí) y decidimos hacerlo. En un primer momento nos pedían 60000 COP por tres personas, pero negociamos y al final nos costó 50000 COP. El recorrido duró una hora y nos fueron contando la historia y anécdotas de los sitios que ibamos viendo (las casas de los famosos, el pueblo hundido, la mansión donde Pablo Escobar guardaba las armas etc.). Disfrutamos mucho el paseo en lancha y recomendamos la experiencia al 100% Ya terminado el paseo en lancha volvimos al coche y de ahí a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal, que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paragüas.",
-            "..."
+            "Salimos temprano de Medellín para ponernos rumbo a ver la famosa Piedra del Peñol, un monolito de 220 metros de altura. Por delante nos esperaban alrededor de dos horas de viaje con peaje incluido (16800 COP). Una vez llegamos al Peñol dejamos el coche en el parking que hay en la entrada, el cual nos costó 3000 COP por hora. Para poder acceder al Peñol hay que pasar por caja y comprar el ticket en la taquilla (25000 COP por persona). Cuando consigas subir los 740 peldaños... Enhorabuena! ahora a disfrutar de la vista!.", "Ya abajo de nuevo se nos acercaron unas personas ofreciéndonos un tour en lancha por el embalse (o represa, como lo llaman allí) y decidimos hacerlo. En un primer momento nos pedían 60000 COP por tres personas, pero negociamos y al final nos costó 50000 COP. El recorrido duró una hora y nos fueron contando la historia y anécdotas de los sitios que ibamos viendo (las casas de los famosos, el pueblo hundido, la mansión donde Pablo Escobar guardaba las armas etc.). Disfrutamos mucho el paseo en lancha y recomendamos la experiencia al 100% Ya terminado el paseo en lancha volvimos al coche y de ahí a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal, que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paragüas."
         ],
         "Alojamiento": ["No hemos dormido allí, pero la oferta de alojamientos es variada"],
         "recomendaciones": [
@@ -114,14 +114,14 @@
 
         "ToDo": [
             {
-                "titulo": "Recorrido en lancha",
-                "imagen": "placeholder.png",
+                "titulo": "Tour en lancha",
+                "imagen": "Lancha en guatape",
                 "texto": "Recorrido por el agua a toda velocidad conociendo las casas de las celebridades y la fascinante historia de la creación del embalse. ",
                 "precio": 60000,
                 "contacto": {
-                    "nombre": "Hotel algo",
-                    "direccion": "direccion falsa 123",
-                    "web": "www.paginaWeb.de"
+                    "nombre": "Hotel Bahía del faro",
+                    "direccion": "Guatapé, Departamento de Antioquia, Kolumbien",
+                    "web": "..."
                 }
             }
         ],
