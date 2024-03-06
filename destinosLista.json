@@ -101,12 +101,22 @@
             "..."
         ],
         "Alojamiento": ["No hemos dormido allí, pero la oferta de alojamientos es variada"],
-        "recomendaciones": ["Ir durante la semana, ya que el fin de semana hay mucha más gente.", "Llevar agua y crema solar.", "Comida en el Bacchanal para 3 personas 140000 COP"],
+        "recomendaciones": [
+
+"Ir durante la semana, ya que el fin de semana hay mucha más gente.", 
+
+"Llevar agua y crema solar.", 
+
+"Si eres buen negociante y sientes que el precio que te estan ofreciendo es muy elevado, en Colombia todo se puede negociar",
+
+"Viajar temprano tiene varias ventajas, no solo podrás aprovecharmásel día, sino qué tambien disfrutarás de los sitios turísticos con menos gente. Esto se traduce en menos estrésy fotosmásbonitas"],
+
+
         "ToDo": [
             {
                 "titulo": "Recorrido en lancha",
                 "imagen": "placeholder.png",
-                "texto": "Recorrido por el agua a toda velocidad conociendo las casas de las celebridades",
+                "texto": "Recorrido por el agua a toda velocidad conociendo las casas de las celebridades y la fascinante historia de la creación del embalse. ",
                 "precio": 60000,
                 "contacto": {
                     "nombre": "Hotel algo",
@@ -141,16 +151,30 @@
         "divisa": "Peso colombiano (COP)",
         "temperatura": 35,
         "texto": [
-            "EL viaje más largo que hicimos en coche por Colombia fue desde Medellín a Salento. Cinco horas de viaje y seis peajes (80000COP en total) después, por fin llegamos a este colorido pueblito! Dejamos las maletas en el hotel y sin descanso nos pusimos rumbo al Valle de Cocorá. Desde Salento al Valle se tarda una media hora y se puede ir en coche propio o en los tipicos Willys que salen de la plaza del ayuntamiento. Nosotros fuimos en coche y lo dejamos en un parking cerca del Valle por 10000 COP el día. Hay diferentes entradas y en todas hay que pagar si se quiere acceder a los típicos miradores y atracciones. Entramos por la segunda entrada que nos encontramos (20000 COP/persona) y nos dijeron que desde ahí se podían hacer diferentes recorridos. El más corto dura alrededor de una hora y media y hay otro recorrido que dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo.",
-            "..."
-        ],
+            "EL viaje más largo que hicimos en coche por Colombia fue desde Medellín a Salento. Cinco horas de viaje y seis peajes (80000COP en total) después, por fin llegamos a este colorido pueblito! Dejamos las maletas en el hotel y sin descanso nos pusimos rumbo al Valle de Cocorá. Desde Salento al Valle se tarda una media hora y se puede ir en coche propio o en los tipicos Willys que salen de la plaza del ayuntamiento. Nosotros fuimos en coche y lo dejamos en un parking cerca del Valle por 10000 COP el día.", 
+
+" Hay diferentes entradas y en todas hay que pagar si se quiere acceder a los típicos miradores y atracciones. Entramos por la segunda entrada que nos encontramos (20000 COP/persona) y nos dijeron que desde ahí se podían hacer diferentes recorridos. El más corto dura alrededor de una hora y media y hay otro recorrido que dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo."],
         "Alojamiento": ["Nos alojamos en el Hotel Balcones de Salento por 100000COP (~25€) la noche para dos personas con desayuno (Habitación doble con baño privado)"],
-        "recomendaciones": ["Ir durante la semana, ya que el fin de semana hay mucha más gente.", "Llevar agua, snacks, crema solar y spray antimosquitos.", "Cena en el Cacharrito, hamburguesas (con opciones vegetarianas) y bebidas para dos: 70000 COP"],
+        "recomendaciones": [
+
+"Ir durante la semana, ya que el fin de semana hay mucha más gente.", 
+
+"Llevar agua, snacks, crema solar y spray antimosquitos.", 
+
+"Ponte calzado comodo, el paisaje es hermoso de ver pero dificil de recorrer. Desde colinas empinadas hasta caminos rocosos, todo forma parte del recorrido",
+
+"Lleva dinero en efectivo, en pocos negocios aceptan el pago con tarjeta",
+
+"Lleva ropa comoda y fresca, el vlima es calido y humedo.",
+
+"Si vas en Auto informate muy bien sobre la tarifa antes de dejar el auto allí y pide un tiquete para evitar que te cobren doble.",
+
+"No dejes objetos de valor en el coche, este es un lugar seguro, pero es mejor prevenir."],
         "ToDo": [
             {
                 "titulo": "visitar el Cocora",
                 "imagen": "placeholder.png",
-                "texto": "Un lugar magico lleno de naturaleza",
+                "texto": "Si solo quieres fotos bonitas o a lo mejor hacer una larga caminata por la naturaleza, este lugar es perfecto para cualquier visitante. Sus enormes palmas de cera son impresionantes.",
                 "precio": 0,
                 "contacto": {
                     "nombre": "...",
@@ -179,7 +203,15 @@
         "divisa": "Peso colombiano (COP)",
         "temperatura": 35,
         "texto": [
-            "..."
+            "Al llegar a Santa Rosa de Cabal nos llevamos una sorpresa no tan agradable. Aunque su parque tiene una iglesia y unas esculturas bonitas e interesantes, nos parecio el resto de la ciudad no muy bonito. Las calles estaban en mal estado y el aire estaba lleno de polucion.",
+
+"Aunque el inicio de esta visita no fue muy positivo el hostal en el que nos hospedamos y más tarde la visita a los termales nos dejaron encantados. En el hostal llamado ....... nos recibieron muy bien, aunque fue un poco dificil de encontrar, por suerte teníamos un estacionamiento directo al lado. El primer saludo no lo dio JEFE, un gatito precioso que al parecer se encarga de la supervision en el hostal.",
+
+"Despues de dejar nuestras cosas en nuestra habitación, nos pusimos encamino a los Termales de Santa Rosa. Nos sorprendio lo alejados que están del centro de la pequeña ciudad. una hora de recorrido más o menos que te lleva a traves de un frondoso bosque. La carretera no está asfaltada y tiene algunas zonas dónde un auto pequeño podria sufrir un poco.",
+
+"Al llegar a los termales dejamos el auto en un estacionamiento muy amplio. Nos sorprendio que era totalmente gratis, pero le puedes dejar a los guardias algo de dinero por su buen servicio.",
+
+"La entrada cuesta ..... COP. No puedes entrar con alimentos de afuera, Aunque si la bolsa está abierta y lo estas comiendo mientras entras, los guardias no te diran nada. Raro? si, pero quien somos nosotros para juzgar sus reglas. El camino que conduce a los termales es muy bonito, tiene pequeñas cascadas de agua cristalina y agradablemente tibia."
         ],
         "Alojamiento": ["Nos alojamos en el Kimaná Hostal Santa Rosa por 100000 COP (~25€) la noche para dos persona con desayuno (Habitación doble con baño privado)"],
         "recomendaciones": ["Ir durante la semana, ya que el fin de semana hay mucha más gente.", "Llevar agua, crema solar, toalla, chanclas y bañador.", "Dentro hay restaurante y bar. No dejan meter comida del exterior."],
