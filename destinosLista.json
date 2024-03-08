@@ -10,6 +10,7 @@
             "San Andres palmeras",
             "San Andres coco playa",
             "San Andres Aida moto",
+            "capisplace desplorando",
             "San Andres mar buceo"
         ],
         "titulo": "San Andrés",
@@ -21,7 +22,7 @@
         "temperatura": 35,
         "texto": [
             "Habíamos escuchado tantas veces el nombre de San Andrés que no podíamos dejar pasar la oportunidad de visitar esta isla caribeña, así que durante nuestro viaje por Colombia, decidimos pasar cuatro días allí.", 
-            "Cuatro días llenos de sorpresas, anécdotas y contrastes. Y es que la primera sorpresa llegó ya en el aeropuerto Jose María Cordoba de Rionegro cuando, mientras la gente hacía fila para embarcar, la azafata dijo por megafonía: Por favor, tengan preparados los pasaportes, la tarjeta de embarque y la tarjeta de entrada a la isla. Cuando escuchamos esto último casi se nos salen los ojos del sitio. ¿Tarjeta de entrada a la isla? Pues sí.",
+            "Cuatro días llenos de sorpresas, anécdotas y contrastes. Y es que la primera sorpresa llegó ya en el aeropuerto Jose María Cordoba de Rionegro cuando, mientras la gente hacía fila para embarcar, la azafata dijo por megafonía: 'Por favor, tengan preparados los pasaportes, la tarjeta de embarque y la tarjeta de entrada a la isla'. Cuando escuchamos esto último casi se nos salen los ojos del sitio. ¿Tarjeta de entrada a la isla? Pues sí.",
             "Resulta que para entrar a San Andrés hay que pagar. Y da lo mismo si eres de Colombia o no, aquí todo el mundo paga a excepción de los residentes de la isla.",
             
             
@@ -30,7 +31,7 @@
             "San Andres palmeras",
             "San Andres Aida moto",
             
-"Una vez allí alquilamos una moto estilo scooter que nos costó 300000 COP (~70€) por tres días y fue lo mejor que pudimos hacer para movernos y conocer toda la isla. La moto la habíamos reservado con antelación poniéndonos en contacto con Jairo antes de ir (dejamos los detalles de su contacto más abajo).",
+"Una vez allí, alquilamos una moto estilo scooter que nos costó 300000 COP (~70€) por tres días y fue lo mejor que pudimos hacer para movernos y conocer toda la isla. La moto la habíamos reservado con antelación poniéndonos en contacto con Jairo antes de ir (dejamos los detalles de su contacto más abajo).",
             
 "La segunda sorpresa para nosotros fue ver el estado en el que estaban las carreteras. Pensábamos que con el dinero que recaudaban por cada pasajero las calles estarían cuidadas y limpias, pero no, nos tocó ir esquivando los huecos en la carretera con la moto, sobre todo en la zona céntrica, que es la más turística. ",
            "La zona sur de la isla la encontramos en mejores condiciones y más limpia.",
@@ -50,6 +51,8 @@
 "Orlando es el administrador del hotel y os aseguramos que con él no os vais a aburrir, ya que tiene cientos de historias para contar. También hay cuatro perritos y un gatito con los que podéis jugar." ,
             
 "Anécdota: Un día estando en la piscina una iguana nos vino a hacer una visita :)."],
+
+        "Fotos alojamiento": ["capisplace desplorando", "capisplace desplorando", "capisplace desplorando"],
         
         "recomendaciones": [
         "El día de buceo pasamos bastantes horas al sol y nos terminamos quemando, así que os recomendamos aplicaros mucho protector solar y llevar camisetas puestas.",
@@ -117,6 +120,7 @@
             "Ya terminado el paseo en lancha volvimos al coche y nos fuimos a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal, que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paragüas."
         ],
         "Alojamiento": ["No hicimos noche allí, pero la oferta de alojamientos es variada"],
+        "Fotos alojamiento": [],
         "recomendaciones": [
 
 "Ir durante la semana, ya que el fin de semana hay mucha más gente.", 
@@ -180,6 +184,7 @@
             
             "Entramos por la segunda entrada que nos encontramos (20000 COP/persona) y nos dijeron que desde ahí se podían hacer diferentes recorridos. El más corto dura alrededor de una hora y media y hay otro recorrido que dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo."],
         "Alojamiento": ["Nos alojamos en el Hotel Balcones de Salento por 100000COP (~25€) la noche para dos personas con desayuno (Habitación doble con baño privado)"],
+        "Fotos alojamiento": [],
         "recomendaciones": [
 
 "Ir durante la semana, ya que el fin de semana hay mucha más gente.", 
@@ -228,6 +233,8 @@
         "divisa": "Peso colombiano (COP)",
         "temperatura": 35,
         "texto": [
+            "Después de visitar Salento y el valle del Cocorá nos pusimos rumbo a Santa Rosa de Cabal para ir a relajarnos a sus famosos termales.",
+            "Tardamos alrededor de una hora y media desde Salento en coche y nos encontramos con un peaje de camino (14500 COP)",
             "Al llegar a Santa Rosa de Cabal nos llevamos una sorpresa no tan agradable. Aunque su parque tiene una iglesia y unas esculturas bonitas e interesantes, nos parecio el resto de la ciudad no muy bonito. Las calles estaban en mal estado y el aire estaba lleno de polucion.",
 
 "Aunque el inicio de esta visita no fue muy positivo el hostal en el que nos hospedamos y más tarde la visita a los termales nos dejaron encantados. En el hostal llamado ....... nos recibieron muy bien, aunque fue un poco dificil de encontrar, por suerte teníamos un estacionamiento directo al lado. El primer saludo no lo dio JEFE, un gatito precioso que al parecer se encarga de la supervision en el hostal.",
@@ -239,6 +246,7 @@
 "La entrada cuesta ..... COP. No puedes entrar con alimentos de afuera, Aunque si la bolsa está abierta y lo estas comiendo mientras entras, los guardias no te diran nada. Raro? si, pero quien somos nosotros para juzgar sus reglas. El camino que conduce a los termales es muy bonito, tiene pequeñas cascadas de agua cristalina y agradablemente tibia."
         ],
         "Alojamiento": ["Nos alojamos en el Kimaná Hostal Santa Rosa por 100000 COP (~25€) la noche para dos persona con desayuno (Habitación doble con baño privado)"],
+        "Fotos alojamiento": [],
         "recomendaciones": ["Ir durante la semana, ya que el fin de semana hay mucha más gente.", "Llevar agua, crema solar, toalla, chanclas y bañador.", "Dentro hay restaurante y bar. No dejan meter comida del exterior."],
         "ToDo": [
             {
@@ -278,6 +286,7 @@
             "..."
         ],
         "Alojamiento": ["..."],
+        "Fotos alojamiento": [],
         "recomendaciones": ["..."],
         "ToDo": [
             {
