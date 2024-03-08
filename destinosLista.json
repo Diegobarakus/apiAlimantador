@@ -52,7 +52,7 @@
             
 "Anécdota: Un día estando en la piscina una iguana nos vino a hacer una visita :)."],
 
-        "Fotos alojamiento": ["capisplace desplorando", "capisplace desplorando", "capisplace desplorando"],
+        "Fotosalojamiento": ["capisplace desplorando", "capisplace desplorando", "capisplace desplorando"],
         
         "recomendaciones": [
         "El día de buceo pasamos bastantes horas al sol y nos terminamos quemando, así que os recomendamos aplicaros mucho protector solar y llevar camisetas puestas.",
@@ -120,7 +120,7 @@
             "Ya terminado el paseo en lancha volvimos al coche y nos fuimos a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal, que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paragüas."
         ],
         "Alojamiento": ["No hicimos noche allí, pero la oferta de alojamientos es variada"],
-        "Fotos alojamiento": [],
+        "Fotosalojamiento": [],
         "recomendaciones": [
 
 "Ir durante la semana, ya que el fin de semana hay mucha más gente.", 
@@ -184,7 +184,7 @@
             
             "Entramos por la segunda entrada que nos encontramos (20000 COP/persona) y nos dijeron que desde ahí se podían hacer diferentes recorridos. El más corto dura alrededor de una hora y media y hay otro recorrido que dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo."],
         "Alojamiento": ["Nos alojamos en el Hotel Balcones de Salento por 100000COP (~25€) la noche para dos personas con desayuno (Habitación doble con baño privado)"],
-        "Fotos alojamiento": [],
+        "Fotosalojamiento": [],
         "recomendaciones": [
 
 "Ir durante la semana, ya que el fin de semana hay mucha más gente.", 
@@ -246,7 +246,7 @@
 "La entrada cuesta ..... COP. No puedes entrar con alimentos de afuera, Aunque si la bolsa está abierta y lo estas comiendo mientras entras, los guardias no te diran nada. Raro? si, pero quien somos nosotros para juzgar sus reglas. El camino que conduce a los termales es muy bonito, tiene pequeñas cascadas de agua cristalina y agradablemente tibia."
         ],
         "Alojamiento": ["Nos alojamos en el Kimaná Hostal Santa Rosa por 100000 COP (~25€) la noche para dos persona con desayuno (Habitación doble con baño privado)"],
-        "Fotos alojamiento": [],
+        "Fotosalojamiento": [],
         "recomendaciones": ["Ir durante la semana, ya que el fin de semana hay mucha más gente.", "Llevar agua, crema solar, toalla, chanclas y bañador.", "Dentro hay restaurante y bar. No dejan meter comida del exterior."],
         "ToDo": [
             {
@@ -286,7 +286,7 @@
             "..."
         ],
         "Alojamiento": ["..."],
-        "Fotos alojamiento": [],
+        "Fotosalojamiento": [],
         "recomendaciones": ["..."],
         "ToDo": [
             {
