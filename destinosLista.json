@@ -13,6 +13,7 @@
             "San Andres mar buceo"
         ],
         "titulo": "San Andrés",
+        "SEOdescripcion": "viaje a San Andres, recomendaciones para visitar la isla, costos de visitar la isla de San Andres y el caribe de Colombia",
         "continente": "America",
         "pais": "Colombia",
         "region": "Caribe",
@@ -43,7 +44,8 @@
         ],
 
         
-        "Alojamiento": ["Nos alojamos tres noches en Capi's place por 720000 COP (~170€) en habitación privada con baño y desayuno. El sitio nos encantó ya que es súper tranquilo al no estar en pleno centro. Tiene piscina, zonas verdes donde puedes relajarte y el mar justo enfrente, aunque es zona rocosa, no de playa.", 
+        "Alojamiento": ["Nos alojamos tres noches en Capi's place por 720000 COP (~170€) en habitación privada con baño y desayuno. El sitio nos encantó ya que es súper tranquilo al no estar en pleno centro.",
+            "Tiene piscina, zonas verdes donde puedes relajarte y el mar justo enfrente, aunque es zona rocosa, no de playa.", 
             
 "Orlando es el administrador del hotel y os aseguramos que con él no os vais a aburrir, ya que tiene cientos de historias para contar. También hay cuatro perritos y un gatito con los que podéis jugar." ,
             
@@ -98,14 +100,18 @@
             "Guatape fuente colores",
             "Lancha en guatape"
         ],
-        "titulo": "la Piedra del Peñol y Guatapé",
+        "titulo": "La Piedra del Peñol y Guatapé",
+        "SEOdescripcion": "informacion para ir a la piedra del Peñol, recomendaciones para visitar Guatape, ",
         "continente": "America",
         "pais": "Colombia",
         "region": "Antioquia",
         "divisa": "Peso colombiano (COP)",
         "temperatura": 35,
         "texto": [
-            "Salimos temprano de Medellín para ponernos rumbo a ver la famosa Piedra del Peñol, un monolito de 220 metros de altura. Por delante nos esperaban alrededor de dos horas de viaje con peaje incluido (16800 COP). Una vez llegamos al Peñol dejamos el coche en el parking que hay en la entrada, el cual nos costó 3000 COP por hora. Para poder acceder al Peñol hay que pasar por caja y comprar el ticket en la taquilla (25000 COP por persona). Cuando consigas subir los 740 peldaños... Enhorabuena! ahora a disfrutar de la vista!.", "Ya abajo de nuevo se nos acercaron unas personas ofreciéndonos un tour en lancha por el embalse (o represa, como lo llaman allí) y decidimos hacerlo. En un primer momento nos pedían 60000 COP por tres personas, pero negociamos y al final nos costó 50000 COP. El recorrido duró una hora y nos fueron contando la historia y anécdotas de los sitios que ibamos viendo (las casas de los famosos, el pueblo hundido, la mansión donde Pablo Escobar guardaba las armas etc.). Disfrutamos mucho el paseo en lancha y recomendamos la experiencia al 100% Ya terminado el paseo en lancha volvimos al coche y de ahí a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal, que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paragüas."
+            "Salimos temprano de Medellín para ponernos rumbo a ver la famosa Piedra del Peñol, un monolito de 220 metros de altura. ",
+            "Por delante nos esperaban alrededor de dos horas de viaje con peaje incluido (16800 COP).", 
+            "Una vez llegamos al Peñol dejamos el coche en el parking que hay en la entrada, el cual nos costó 3000 COP por hora. Para poder subir al Peñol hay que pasar por caja y comprar el ticket en la taquilla (25000 COP por persona) y cuando consigas subir los 740 peldaños... ¡Enhorabuena! ¡a disfrutar de la vista!.", 
+            "Ya abajo de nuevo se nos acercaron unas personas ofreciéndonos un tour en lancha por el embalse (o represa, como lo llaman allí) y decidimos hacerlo. En un primer momento nos pedían 60000 COP por tres personas, pero negociamos y al final nos costó 50000 COP. El recorrido duró una hora y nos fueron contando la historia y anécdotas de los sitios que ibamos viendo (las casas de los famosos, el pueblo hundido, la mansión donde Pablo Escobar guardaba las armas etc.). Disfrutamos mucho el paseo en lancha y recomendamos la experiencia al 100% Ya terminado el paseo en lancha volvimos al coche y de ahí a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal, que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paragüas."
         ],
         "Alojamiento": ["No hemos dormido allí, pero la oferta de alojamientos es variada"],
         "recomendaciones": [
@@ -152,13 +158,14 @@
             "salento"
         ],
         "titulo": "Salento & Cocora",
+        "SEOdescripcion": "visita el eje cafetero, cuanto cuesta ir al valle de cocora, alojamiento en salento ",
         "continente": "America",
         "pais": "Colombia",
         "region": "Quindio",
         "divisa": "Peso colombiano (COP)",
         "temperatura": 35,
         "texto": [
-            "EL viaje más largo que hicimos en coche por Colombia fue desde Medellín a Salento. Cinco horas de viaje y seis peajes (80000COP en total) después, por fin llegamos a este colorido pueblito! Dejamos las maletas en el hotel y sin descanso nos pusimos rumbo al Valle de Cocorá. Desde Salento al Valle se tarda una media hora y se puede ir en coche propio o en los tipicos Willys que salen de la plaza del ayuntamiento. Nosotros fuimos en coche y lo dejamos en un parking cerca del Valle por 10000 COP el día.", 
+            "El viaje más largo que hicimos en coche por Colombia fue desde Medellín a Salento. Cinco horas de viaje y seis peajes (80000COP en total) después, por fin llegamos a este colorido pueblito! Dejamos las maletas en el hotel y sin descanso nos pusimos rumbo al Valle de Cocorá. Desde Salento al Valle se tarda una media hora y se puede ir en coche propio o en los tipicos Willys que salen de la plaza del ayuntamiento. Nosotros fuimos en coche y lo dejamos en un parking cerca del Valle por 10000 COP el día.", 
 
 " Hay diferentes entradas y en todas hay que pagar si se quiere acceder a los típicos miradores y atracciones. Entramos por la segunda entrada que nos encontramos (20000 COP/persona) y nos dijeron que desde ahí se podían hacer diferentes recorridos. El más corto dura alrededor de una hora y media y hay otro recorrido que dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo."],
         "Alojamiento": ["Nos alojamos en el Hotel Balcones de Salento por 100000COP (~25€) la noche para dos personas con desayuno (Habitación doble con baño privado)"],
@@ -205,6 +212,7 @@
             "Cascada Termales de cerca"
         ],
         "titulo": "Termales - Santa Rosa de Cabal",
+        "SEOdescripcion": "entrada termales santa rosa de cabal, visitar santa rosa de cabal",
         "continente": "America",
         "pais": "Colombia",
         "region": "Risaralda",
@@ -251,6 +259,7 @@
             "..."
         ],
         "titulo": "Medellín",
+        "SEOdescripcion": "que hacer en medellin, alquiler de coche o auto en medellin, como moverse por la ciudad de la eterna primavera",
         "continente": "America",
         "pais": "Colombia",
         "region": "Antioquia",
