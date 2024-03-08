@@ -21,7 +21,7 @@
         "temperatura": 35,
         "texto": [
             "Habíamos escuchado tantas veces el nombre de San Andrés que no podíamos dejar pasar la oportunidad de visitar esta isla caribeña, así que durante nuestro viaje por Colombia, decidimos pasar cuatro días allí.", 
-            "Cuatro días llenos de sorpresas, anécdotas y contrastes. Y es que la primera sorpresa llegó ya en el aeropuerto Jose María Cordoba de Rionegro cuando, mientras la gente hacía fila para embarcar, la azafata dijo por megafonía: Por favor, tengan preparados los pasaportes, la tarjeta de embarque y la tarjeta de entrada a la isla. Cuando escuchamos esto último casi se nos salen los ojos del sitio. Tarjeta de entrada a la isla?? Pues sí.",
+            "Cuatro días llenos de sorpresas, anécdotas y contrastes. Y es que la primera sorpresa llegó ya en el aeropuerto Jose María Cordoba de Rionegro cuando, mientras la gente hacía fila para embarcar, la azafata dijo por megafonía: Por favor, tengan preparados los pasaportes, la tarjeta de embarque y la tarjeta de entrada a la isla. Cuando escuchamos esto último casi se nos salen los ojos del sitio. ¿Tarjeta de entrada a la isla? Pues sí.",
             "Resulta que para entrar a San Andrés hay que pagar. Y da lo mismo si eres de Colombia o no, aquí todo el mundo paga a excepción de los residentes de la isla.",
             
             
@@ -110,10 +110,13 @@
         "texto": [
             "Salimos temprano de Medellín para ponernos rumbo a ver la famosa Piedra del Peñol, un monolito de 220 metros de altura. ",
             "Por delante nos esperaban alrededor de dos horas de viaje con peaje incluido (16800 COP).", 
-            "Una vez llegamos al Peñol dejamos el coche en el parking que hay en la entrada, el cual nos costó 3000 COP por hora. Para poder subir al Peñol hay que pasar por caja y comprar el ticket en la taquilla (25000 COP por persona) y cuando consigas subir los 740 peldaños... ¡Enhorabuena! ¡a disfrutar de la vista!.", 
-            "Ya abajo de nuevo se nos acercaron unas personas ofreciéndonos un tour en lancha por el embalse (o represa, como lo llaman allí) y decidimos hacerlo. En un primer momento nos pedían 60000 COP por tres personas, pero negociamos y al final nos costó 50000 COP. El recorrido duró una hora y nos fueron contando la historia y anécdotas de los sitios que ibamos viendo (las casas de los famosos, el pueblo hundido, la mansión donde Pablo Escobar guardaba las armas etc.). Disfrutamos mucho el paseo en lancha y recomendamos la experiencia al 100% Ya terminado el paseo en lancha volvimos al coche y de ahí a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal, que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paragüas."
+            "Una vez llegamos al Peñol dejamos el coche en el parking que hay en la entrada, el cual nos costó 3000 COP por hora. Para poder subir al Peñol también hay que pasar por caja y comprar el ticket en la taquilla (25000 COP por persona) y cuando consigas subir los 740 peldaños... ¡Enhorabuena! ¡a disfrutar de la vista!.", 
+            "Ya abajo de nuevo se nos acercaron unas personas ofreciéndonos un tour en lancha por el embalse (o represa, como lo llaman allí) y nos animamos a hacerlo.",
+            "En un primer momento nos pedían 60000 COP por tres personas, pero negociamos (regatear es bastante común allí) y al final pagamos 50000 COP. El recorrido duró una hora y nos fueron contando la historia y anécdotas de los sitios que íbamos viendo (las casas de los famosos, el pueblo hundido, la mansión donde Pablo Escobar guardaba las armas etc.).",
+            "Disfrutamos mucho del paseo en lancha y recomendamos la experiencia al 100%.",
+            "Ya terminado el paseo en lancha volvimos al coche y nos fuimos a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal, que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paragüas."
         ],
-        "Alojamiento": ["No hemos dormido allí, pero la oferta de alojamientos es variada"],
+        "Alojamiento": ["No hicimos noche allí, pero la oferta de alojamientos es variada"],
         "recomendaciones": [
 
 "Ir durante la semana, ya que el fin de semana hay mucha más gente.", 
@@ -122,7 +125,7 @@
 
 "Si eres buen negociante y sientes que el precio que te estan ofreciendo es muy elevado, en Colombia todo se puede negociar",
 
-"Viajar temprano tiene varias ventajas, no solo podrás aprovecharmásel día, sino qué tambien disfrutarás de los sitios turísticos con menos gente. Esto se traduce en menos estrésy fotosmásbonitas"],
+"En Guatapé fuimos a comer a un restaurante gestionado por un chico canadiense. Nosotros pedimos hamburguesas y bebidas y pagamos 138000 COP para tres personas. El local nos pareció bonito y la carta es muy extensa con opciones vegetarianas. El sitio se llama El Bacchanal."],
 
 
         "ToDo": [
@@ -157,7 +160,7 @@
             "Salento vistas hotel",
             "salento"
         ],
-        "titulo": "Salento & Cocora",
+        "titulo": "Valle del Cocorá y Salento",
         "SEOdescripcion": "visita el eje cafetero, cuanto cuesta ir al valle de cocora, alojamiento en salento ",
         "continente": "America",
         "pais": "Colombia",
@@ -165,9 +168,17 @@
         "divisa": "Peso colombiano (COP)",
         "temperatura": 35,
         "texto": [
-            "El viaje más largo que hicimos en coche por Colombia fue desde Medellín a Salento. Cinco horas de viaje y seis peajes (80000COP en total) después, por fin llegamos a este colorido pueblito! Dejamos las maletas en el hotel y sin descanso nos pusimos rumbo al Valle de Cocorá. Desde Salento al Valle se tarda una media hora y se puede ir en coche propio o en los tipicos Willys que salen de la plaza del ayuntamiento. Nosotros fuimos en coche y lo dejamos en un parking cerca del Valle por 10000 COP el día.", 
+            "El viaje más largo que hicimos en coche por Colombia fue desde Medellín a Salento. Cinco horas de viaje y seis peajes (80000COP) después, ¡por fin llegamos a este colorido pueblito!",
 
-" Hay diferentes entradas y en todas hay que pagar si se quiere acceder a los típicos miradores y atracciones. Entramos por la segunda entrada que nos encontramos (20000 COP/persona) y nos dijeron que desde ahí se podían hacer diferentes recorridos. El más corto dura alrededor de una hora y media y hay otro recorrido que dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo."],
+            "Salento vistas hotel",
+            
+            "Dejamos las maletas en el hotel y sin descanso nos pusimos rumbo al Valle de Cocorá. Desde Salento al Valle se tarda una media hora y se puede ir en coche propio o en los tipicos Willys que salen de la plaza del ayuntamiento. Nosotros fuimos en coche y lo dejamos en un parking cerca del Valle por 10000 COP el día.", 
+
+" Hay diferentes entradas y en todas hay que pagar si se quiere acceder a los típicos miradores y atracciones.",
+            
+            "valle Cocora AidayDiego",
+            
+            "Entramos por la segunda entrada que nos encontramos (20000 COP/persona) y nos dijeron que desde ahí se podían hacer diferentes recorridos. El más corto dura alrededor de una hora y media y hay otro recorrido que dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo."],
         "Alojamiento": ["Nos alojamos en el Hotel Balcones de Salento por 100000COP (~25€) la noche para dos personas con desayuno (Habitación doble con baño privado)"],
         "recomendaciones": [
 
@@ -175,15 +186,13 @@
 
 "Llevar agua, snacks, crema solar y spray antimosquitos.", 
 
-"Ponte calzado comodo, el paisaje es hermoso de ver pero dificil de recorrer. Desde colinas empinadas hasta caminos rocosos, todo forma parte del recorrido",
+"Ponte calzado cómodo, el paisaje es hermoso de ver pero dificil de recorrer. Desde colinas empinadas hasta caminos rocosos, todo forma parte del recorrido",
 
 "Lleva dinero en efectivo, en pocos negocios aceptan el pago con tarjeta",
 
-"Lleva ropa comoda y fresca, el vlima es calido y humedo.",
+"Lleva ropa comoda y fresca, el clima es cálido y húmedo.",
 
-"Si vas en Auto informate muy bien sobre la tarifa antes de dejar el auto allí y pide un tiquete para evitar que te cobren doble.",
-
-"No dejes objetos de valor en el coche, este es un lugar seguro, pero es mejor prevenir."],
+"No dejes objetos de valor en el coche, éste es un lugar seguro, pero es mejor prevenir."],
         "ToDo": [
             {
                 "titulo": "visitar el Cocora",
