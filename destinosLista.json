@@ -46,7 +46,7 @@
         "recomendaciones": [
             "El día de buceo pasamos bastantes horas al sol y nos terminamos quemando, así que os recomendamos aplicaros mucho protector solar y llevar camisetas puestas.",
             "También para el resto de los días llevad protección como gorra, gafas de sol y no olvidéis la botella de agua",
-            "LLeva siempre algo de dinero en efectivo, el comerciante colombiano no ofrece con frecuencia pagos con tarjeta",
+            "Lleva siempre algo de dinero en efectivo, el comerciante colombiano no ofrece con frecuencia pagos con tarjeta",
             "Visita las playas en la zona no turistica de la isla. Estas suelen ser más limpias y calmadas.",
             "Alquila un vehículo, no es muy caro y podrás visitar toda la isla con libertad de movilidad."
         ],
@@ -223,13 +223,15 @@
            
         ],
         "Alojamiento": [
-            "Nos alojamos en el Kimaná Hostal Santa Rosa por 100000 COP (~25€) la noche para dos persona con desayuno (Habitación doble con baño privado)"
+            "Nos alojamos en el Kimaná Hostal Santa Rosa por 100000 COP (~25€) la noche para dos persona con desayuno en habitación doble con baño privado.",
+            "La calle donde se encuentra no es muy bonita pero nos sorprendió que, una vez dentro, es como estar en medio de la naturaleza. Hay plantas, flores y zonas comunes para hacer yoga, jugar a las cartas o leer un libro."
         ],
         "Fotosalojamiento": [],
         "recomendaciones": [
-            "Ir durante la semana, ya que el fin de semana hay mucha más gente.",
-            "Llevar agua, crema solar, toalla, chanclas y bañador.",
-            "Dentro hay restaurante y bar. No dejan meter comida del exterior."
+            "Para pasar el día en los termales aconsejamos llevar agua, gafas de sol y bloqueador solar. Llevad también toalla, chanclas y bañador.",
+            "Dinero en efectivo para los parkings o negocios que no acepten tarjeta y monedas para las taquillas",
+            "Si es posible, id durante la semana. El fin de semana hay muchas más gente y además la entrada es más cara"
+            
         ],
         "ToDo": [
             {
