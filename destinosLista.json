@@ -235,18 +235,18 @@
         ],
         "ToDo": [
             {
-                "titulo": "...",
-                "imagen": "...",
-                "texto": "...",
-                "precio": 0,
+                "titulo": "Termales",
+                "imagen": "cascadatermales_desplora",
+                "texto": "Un día de relax en la naturaleza",
+                "precio": 45000,
                 "contacto": {
-                    "nombre": "...",
-                    "direccion": "...",
-                    "web": "..."
+                    "nombre": "Termales de Santa Rosa de Cabal",
+                    "direccion": "Calle 14 # 15 - 52",
+                    "web": "https://termales.com.co"
                 }
             }
         ],
-        "fechaPublicacion": "..."
+        "fechaPublicacion": "10.03.2024"
     },
     {
         "id": 5,
