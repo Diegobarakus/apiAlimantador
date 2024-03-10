@@ -1,7 +1,4 @@
 [
-
-
-    
     {
         "id": 1,
         "imagenPrincipal": "San andrés",
@@ -21,45 +18,38 @@
         "divisa": "Peso colombiano (COP)",
         "temperatura": 35,
         "texto": [
-            "Habíamos escuchado tantas veces el nombre de San Andrés que no podíamos dejar pasar la oportunidad de visitar esta isla caribeña, así que durante nuestro viaje por Colombia, decidimos pasar cuatro días allí.", 
+            "Habíamos escuchado tantas veces el nombre de San Andrés que no podíamos dejar pasar la oportunidad de visitar esta isla caribeña, así que durante nuestro viaje por Colombia, decidimos pasar cuatro días allí.",
             "Cuatro días llenos de sorpresas, anécdotas y contrastes. Y es que la primera sorpresa llegó ya en el aeropuerto Jose María Cordoba de Rionegro cuando, mientras la gente hacía fila para embarcar, la azafata dijo por megafonía: 'Por favor, tengan preparados los pasaportes, la tarjeta de embarque y la tarjeta de entrada a la isla'. Cuando escuchamos esto último casi se nos salen los ojos del sitio. ¿Tarjeta de entrada a la isla? Pues sí.",
             "Resulta que para entrar a San Andrés hay que pagar. Y da lo mismo si eres de Colombia o no, aquí todo el mundo paga a excepción de los residentes de la isla.",
-            
-            
-"La parte positiva de toda esta situación es que la tarjeta de entrada la puedes comprar antes de subir al avión, así que en tierra no te vas a quedar por ese motivo. La parte negativa es que por persona cuesta 138000 COP (~33€).",
-            
+            "La parte positiva de toda esta situación es que la tarjeta de entrada la puedes comprar antes de subir al avión, así que en tierra no te vas a quedar por ese motivo. La parte negativa es que por persona cuesta 138000 COP (~33€).",
             "San Andres palmeras",
             "San Andres Aida moto",
-            
-"Una vez allí, alquilamos una moto estilo scooter que nos costó 300000 COP (~70€) por tres días y fue lo mejor que pudimos hacer para movernos y conocer toda la isla. La moto la habíamos reservado con antelación poniéndonos en contacto con Jairo antes de ir (dejamos los detalles de su contacto más abajo).",
-            
-"La segunda sorpresa para nosotros fue ver el estado en el que estaban las carreteras. Pensábamos que con el dinero que recaudaban por cada pasajero las calles estarían cuidadas y limpias, pero no, nos tocó ir esquivando los huecos en la carretera con la moto, sobre todo en la zona céntrica, que es la más turística. ",
-           "La zona sur de la isla la encontramos en mejores condiciones y más limpia.",
-
+            "Una vez allí, alquilamos una moto estilo scooter que nos costó 300000 COP (~70€) por tres días y fue lo mejor que pudimos hacer para movernos y conocer toda la isla. La moto la habíamos reservado con antelación poniéndonos en contacto con Jairo antes de ir (dejamos los detalles de su contacto más abajo).",
+            "La segunda sorpresa para nosotros fue ver el estado en el que estaban las carreteras. Pensábamos que con el dinero que recaudaban por cada pasajero las calles estarían cuidadas y limpias, pero no, nos tocó ir esquivando los huecos en la carretera con la moto, sobre todo en la zona céntrica, que es la más turística. ",
+            "La zona sur de la isla la encontramos en mejores condiciones y más limpia.",
             "San Andres mar buceo",
-            
-"Entre las actividades que hicimos en la isla lo que más nos gustó fue hacer un mini-curso de buceo. ",
-           " Nos costó 190000 COP por persona y es el mejor recuerdo que nos llevamos de San Andrés. Empezamos a las 9:00 de la mañana con la parte teórica y sobre las 10:00 con la parte práctica en una zona de poca profundidad. Una vez listos nos llevaron en lancha a una zona alejada de la orilla y ya con los equipos puestos nos tiramos al agua. Buceamos a una profundidad de nueve metros y vimos corales, una raya y muchos pececitos. La temperatura del agua ronda los 28 grados así que no utilizamos traje de neopreno.",
-
-"No todos los días que estuvimos hizo sol y calor, así que aprovechamos el día de lluvia para ir a ver una película en el Teatro Hollywood. La entrada nos pareció súper barata (8000 COP por persona ~ 2€) y el cine era muy cómodo."
+            "Entre las actividades que hicimos en la isla lo que más nos gustó fue hacer un mini-curso de buceo. ",
+            " Nos costó 190000 COP por persona y es el mejor recuerdo que nos llevamos de San Andrés. Empezamos a las 9:00 de la mañana con la parte teórica y sobre las 10:00 con la parte práctica en una zona de poca profundidad. Una vez listos nos llevaron en lancha a una zona alejada de la orilla y ya con los equipos puestos nos tiramos al agua. Buceamos a una profundidad de nueve metros y vimos corales, una raya y muchos pececitos. La temperatura del agua ronda los 28 grados así que no utilizamos traje de neopreno.",
+            "No todos los días que estuvimos hizo sol y calor, así que aprovechamos el día de lluvia para ir a ver una película en el Teatro Hollywood. La entrada nos pareció súper barata (8000 COP por persona ~ 2€) y el cine era muy cómodo."
         ],
-
-        
-        "Alojamiento": ["Nos alojamos tres noches en Capi's place por 720000 COP (~170€) en habitación privada con baño y desayuno. El sitio nos encantó ya que es súper tranquilo al no estar en pleno centro.",
-            "Tiene piscina, zonas verdes donde puedes relajarte y el mar justo enfrente, aunque es zona rocosa, no de playa.", 
-            
-"Orlando es el administrador del hotel y os aseguramos que con él no os vais a aburrir, ya que tiene cientos de historias para contar. También hay cuatro perritos y un gatito con los que podéis jugar." ,
-            
-"Anécdota: Un día estando en la piscina una iguana nos vino a hacer una visita :)."],
-
-        "Fotosalojamiento": ["capisplace desplora", "capisplace desplora", "capisplace desplora"],
-        
+        "Alojamiento": [
+            "Nos alojamos tres noches en Capi's place por 720000 COP (~170€) en habitación privada con baño y desayuno. El sitio nos encantó ya que es súper tranquilo al no estar en pleno centro.",
+            "Tiene piscina, zonas verdes donde puedes relajarte y el mar justo enfrente, aunque es zona rocosa, no de playa.",
+            "Orlando es el administrador del hotel y os aseguramos que con él no os vais a aburrir, ya que tiene cientos de historias para contar. También hay cuatro perritos y un gatito con los que podéis jugar.",
+            "Anécdota: Un día estando en la piscina una iguana nos vino a hacer una visita :)."
+        ],
+        "Fotosalojamiento": [
+            "capisplace desplora",
+            "capisplace desplora",
+            "capisplace desplora"
+        ],
         "recomendaciones": [
-        "El día de buceo pasamos bastantes horas al sol y nos terminamos quemando, así que os recomendamos aplicaros mucho protector solar y llevar camisetas puestas.",
-        "También para el resto de los días llevad protección como gorra, gafas de sol y no olvidéis la botella de agua",
-        "LLeva siempre algo de dinero en efectivo, el comerciante colombiano no ofrece con frecuencia pagos con tarjeta",
-        "Visita las playas en la zona no turistica de la isla. Estas suelen ser más limpias y calmadas.",
-        "Alquila un vehículo, no es muy caro y podrás visitar toda la isla con libertad de movilidad."],
+            "El día de buceo pasamos bastantes horas al sol y nos terminamos quemando, así que os recomendamos aplicaros mucho protector solar y llevar camisetas puestas.",
+            "También para el resto de los días llevad protección como gorra, gafas de sol y no olvidéis la botella de agua",
+            "LLeva siempre algo de dinero en efectivo, el comerciante colombiano no ofrece con frecuencia pagos con tarjeta",
+            "Visita las playas en la zona no turistica de la isla. Estas suelen ser más limpias y calmadas.",
+            "Alquila un vehículo, no es muy caro y podrás visitar toda la isla con libertad de movilidad."
+        ],
         "ToDo": [
             {
                 "titulo": "Buceo en el mar Caribe",
@@ -72,8 +62,7 @@
                     "web": "https://www.diversteam.net/"
                 }
             },
-
-             {
+            {
                 "titulo": "Alquiler de Scooter",
                 "imagen": "San Andres Aida moto",
                 "texto": "La mejor forma de moverse por la isla.",
@@ -85,15 +74,8 @@
                 }
             }
         ],
-
         "fechaPublicacion": "27.02.24"
     },
-
-
-
-
-
-    
     {
         "id": 2,
         "imagenPrincipal": "Piedra del penol desde lejos",
@@ -112,26 +94,23 @@
         "temperatura": 35,
         "texto": [
             "Salimos temprano de Medellín para ponernos rumbo a ver la famosa Piedra del Peñol, un monolito de 220 metros de altura. ",
-            "Por delante nos esperaban alrededor de dos horas de viaje con peaje incluido (16800 COP).", 
-            "Una vez llegamos al Peñol dejamos el coche en el parking que hay en la entrada, el cual nos costó 3000 COP por hora. Para poder subir al Peñol también hay que pasar por caja y comprar el ticket en la taquilla (25000 COP por persona) y cuando consigas subir los 740 peldaños... ¡Enhorabuena! ¡a disfrutar de la vista!.", 
+            "Por delante nos esperaban alrededor de dos horas de viaje con peaje incluido (16800 COP).",
+            "Una vez llegamos al Peñol dejamos el coche en el parking que hay en la entrada, el cual nos costó 3000 COP por hora. Para poder subir al Peñol también hay que pasar por caja y comprar el ticket en la taquilla (25000 COP por persona) y cuando consigas subir los 740 peldaños... ¡Enhorabuena! ¡a disfrutar de la vista!.",
             "Ya abajo de nuevo se nos acercaron unas personas ofreciéndonos un tour en lancha por el embalse (o represa, como lo llaman allí) y nos animamos a hacerlo.",
             "En un primer momento nos pedían 60000 COP por tres personas, pero negociamos (regatear es bastante común allí) y al final pagamos 50000 COP. El recorrido duró una hora y nos fueron contando la historia y anécdotas de los sitios que íbamos viendo (las casas de los famosos, el pueblo hundido, la mansión donde Pablo Escobar guardaba las armas etc.).",
             "Disfrutamos mucho del paseo en lancha y recomendamos la experiencia al 100%.",
             "Ya terminado el paseo en lancha volvimos al coche y nos fuimos a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal, que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paragüas."
         ],
-        "Alojamiento": ["No hicimos noche allí, pero la oferta de alojamientos es variada."],
+        "Alojamiento": [
+            "No hicimos noche allí, pero la oferta de alojamientos es variada."
+        ],
         "Fotosalojamiento": [],
         "recomendaciones": [
-
-"Ir durante la semana, ya que el fin de semana hay mucha más gente.", 
-
-"Llevar agua y crema solar.", 
-
-"Si eres buen negociante y sientes que el precio que te estan ofreciendo es muy elevado, en Colombia todo se puede negociar",
-
-"En Guatapé fuimos a comer a un restaurante gestionado por un chico canadiense. Nosotros pedimos hamburguesas y bebidas y pagamos 138000 COP para tres personas. El local nos pareció bonito y la carta es muy extensa con opciones vegetarianas. El sitio se llama El Bacchanal."],
-
-
+            "Ir durante la semana, ya que el fin de semana hay mucha más gente.",
+            "Llevar agua y crema solar.",
+            "Si eres buen negociante y sientes que el precio que te estan ofreciendo es muy elevado, en Colombia todo se puede negociar",
+            "En Guatapé fuimos a comer a un restaurante gestionado por un chico canadiense. Nosotros pedimos hamburguesas y bebidas y pagamos 138000 COP para tres personas. El local nos pareció bonito y la carta es muy extensa con opciones vegetarianas. El sitio se llama El Bacchanal."
+        ],
         "ToDo": [
             {
                 "titulo": "Tour en lancha",
@@ -147,11 +126,6 @@
         ],
         "fechaPublicacion": "04.03.2024"
     },
-
-
-
-
-    
     {
         "id": 3,
         "imagenPrincipal": "Valle del Cocora Palmeras",
@@ -173,31 +147,24 @@
         "temperatura": 35,
         "texto": [
             "El viaje más largo que hicimos en coche por Colombia fue desde Medellín a Salento. Cinco horas de viaje y seis peajes (80000COP ~ 20€) después, ¡por fin llegamos a este colorido pueblito!",
-
             "Salento vistas hotel",
-            
-            "Dejamos las maletas en el hotel y sin descanso nos pusimos rumbo al Valle de Cocorá. Desde Salento al Valle se tarda una media hora y se puede ir en coche propio o en los tipicos Willys que salen de la plaza del ayuntamiento. Nosotros fuimos en coche y lo dejamos en un parking cerca del Valle por 10000 COP (~2,50€) el día.", 
-
-" Hay diferentes entradas y en todas hay que pagar si se quiere acceder a los típicos miradores y atracciones.",
-            
+            "Dejamos las maletas en el hotel y sin descanso nos pusimos rumbo al Valle de Cocorá. Desde Salento al Valle se tarda una media hora y se puede ir en coche propio o en los tipicos Willys que salen de la plaza del ayuntamiento. Nosotros fuimos en coche y lo dejamos en un parking cerca del Valle por 10000 COP (~2,50€) el día.",
+            " Hay diferentes entradas y en todas hay que pagar si se quiere acceder a los típicos miradores y atracciones.",
             "valle Cocora AidayDiego",
-            
-            "Ya a pie, entramos por la segunda entrada que nos encontramos (20000 COP/persona ~ 5€) y nos dijeron que desde ahí se podían hacer diferentes recorridos. El más corto dura alrededor de una hora y media y el otro dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo."],
-        "Alojamiento": ["Nos alojamos en el Hotel Balcones de Salento por 100000COP (~25€) la noche para dos personas con desayuno (Habitación doble con baño privado)"],
+            "Ya a pie, entramos por la segunda entrada que nos encontramos (20000 COP/persona ~ 5€) y nos dijeron que desde ahí se podían hacer diferentes recorridos. El más corto dura alrededor de una hora y media y el otro dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo."
+        ],
+        "Alojamiento": [
+            "Nos alojamos en el Hotel Balcones de Salento por 100000COP (~25€) la noche para dos personas con desayuno (Habitación doble con baño privado)"
+        ],
         "Fotosalojamiento": [],
         "recomendaciones": [
-
-"Ir durante la semana, ya que el fin de semana hay mucha más gente.", 
-
-"Llevar agua, snacks, crema solar y spray antimosquitos.", 
-
-"Ponte calzado cómodo, el paisaje es hermoso de ver pero dificil de recorrer. Desde colinas empinadas hasta caminos rocosos, todo forma parte del recorrido",
-
-"Lleva dinero en efectivo, en pocos negocios aceptan el pago con tarjeta",
-
-"Lleva ropa comoda y fresca, el clima es cálido y húmedo.",
-
-"No dejes objetos de valor en el coche, éste es un lugar seguro, pero es mejor prevenir."],
+            "Ir durante la semana, ya que el fin de semana hay mucha más gente.",
+            "Llevar agua, snacks, crema solar y spray antimosquitos.",
+            "Ponte calzado cómodo, el paisaje es hermoso de ver pero dificil de recorrer. Desde colinas empinadas hasta caminos rocosos, todo forma parte del recorrido",
+            "Lleva dinero en efectivo, en pocos negocios aceptan el pago con tarjeta",
+            "Lleva ropa comoda y fresca, el clima es cálido y húmedo.",
+            "No dejes objetos de valor en el coche, éste es un lugar seguro, pero es mejor prevenir."
+        ],
         "ToDo": [
             {
                 "titulo": "visitar el Cocora",
@@ -213,11 +180,6 @@
         ],
         "fechaPublicacion": "..."
     },
-
-
-
-
-    
     {
         "id": 4,
         "imagenPrincipal": "Termales Santa Rosa",
@@ -235,27 +197,25 @@
         "texto": [
             "Después de visitar Salento y el valle del Cocorá nos pusimos rumbo a Santa Rosa de Cabal para ir a relajarnos a sus famosos termales.",
             "Tardamos alrededor de una hora y media desde Salento en coche y nos encontramos con un peaje de camino (14500 COP ~ 3,50€)",
-
             "Una vez en Santa Rosa, pasamos a dejar rapidamente nuestro equipaje en el alojamiento y en marcha hacia a los termales. En coche se tarda una media hora en llegar y hay tramos de la carretera que no están asfaltados pero tampoco está tan mal.",
-            "Una vez allí, dejamos el coche en el parking que tienen habilitado para los visitantes y que es gratuito. Nosotros fuimos por semana, un miércoles, y ya había bastante gente así que nos imaginamos que el fin de semana estará llenísimo. La entrada es más barata si vas de lunes a viernes y también si la compras online (pagamos 45000 COP/persona ~10€). No está permitido introducir comidas ni bebidas del exterior y antes de entrar te revisan las mochilas, aunque por llevar agua no nos dijeron nada. Dentro hay bar y restaurante.", 
+            "Una vez allí, dejamos el coche en el parking que tienen habilitado para los visitantes y que es gratuito. Nosotros fuimos por semana, un miércoles, y ya había bastante gente así que nos imaginamos que el fin de semana estará llenísimo. La entrada es más barata si vas de lunes a viernes y también si la compras online (pagamos 45000 COP/persona ~10€). No está permitido introducir comidas ni bebidas del exterior y antes de entrar te revisan las mochilas, aunque por llevar agua no nos dijeron nada. Dentro hay bar y restaurante.",
             "Hay taquillas para dejar tus pertenencias mientras disfrutas de las aguas termales pero ten en cuenta que hay que introducir una moneda de 1000 COP para utilizarlas y esa moneda no se te devuelve. Si vuelves a abrir la taquilla para coger alguna cosa, necesitas otra moneda para volver a cerrarla. Nosotros nos dimos cuenta tarde y nos tocó pagar dos veces :) ",
-
             "Cascada Termales de cerca",
-            
             "Rodeados de naturaleza y montañas, los termales son el sitio perfecto para desconectar y relajarse. Hay cuatro piscinas, senderos para pasear, riachuelos y la impresionante cascada bajo la que también te puedes dar un baño. Las aguas termales brotan de la tierra a una temperatura de 70 ºC y bajan por las cascadas hasta las piscinas termales a unos 40 ºC.",
-
             "Y tras unas cuatro horas de estar a remojo, nos tocó volver a la realidad :).",
-
             "De vuelta en Santa Rosa, salimos a pasear y a conocer el pueblito. No es de los sitios más bonitos que hemos visto en Colombia y la verdad que las calles fuera de lo que es el centro estaban bastante descuidadas y algo sucias. La placita central con su parque y su iglesia está bien y alrededor hay muchos bares y restaurantes.",
-"Nosotros cenamos en Zabdi pizza artesanal y la pizza nos encantó.",
-            
-"El hostal en el que nos hospedamos estaba cerca del centro y nos encantaron tanto las instalaciones como su jefe :). Ten en cuenta que el jefe es un ser adorable con orejitas puntiagudas y bigotes largos. Como anécdota podemos contar que se coló en nuestra habitación sin permiso y se acostó en nuestra cama a dormir la siesta (y nosotros felices). Justo al lado del hostal hay un parking donde se puede dejar el coche por horas o por días, aunque nosotros de noche lo aparcamos en la calle y no tuvimos ningún problema.",
-
-
+            "Nosotros cenamos en Zabdi pizza artesanal y la pizza nos encantó.",
+            "El hostal en el que nos hospedamos estaba cerca del centro y nos encantaron tanto las instalaciones como su jefe :). Ten en cuenta que el jefe es un ser adorable con orejitas puntiagudas y bigotes largos. Como anécdota podemos contar que se coló en nuestra habitación sin permiso y se acostó en nuestra cama a dormir la siesta (y nosotros felices). Justo al lado del hostal hay un parking donde se puede dejar el coche por horas o por días, aunque nosotros de noche lo aparcamos en la calle y no tuvimos ningún problema."
         ],
-        "Alojamiento": ["Nos alojamos en el Kimaná Hostal Santa Rosa por 100000 COP (~25€) la noche para dos persona con desayuno (Habitación doble con baño privado)"],
+        "Alojamiento": [
+            "Nos alojamos en el Kimaná Hostal Santa Rosa por 100000 COP (~25€) la noche para dos persona con desayuno (Habitación doble con baño privado)"
+        ],
         "Fotosalojamiento": [],
-        "recomendaciones": ["Ir durante la semana, ya que el fin de semana hay mucha más gente.", "Llevar agua, crema solar, toalla, chanclas y bañador.", "Dentro hay restaurante y bar. No dejan meter comida del exterior."],
+        "recomendaciones": [
+            "Ir durante la semana, ya que el fin de semana hay mucha más gente.",
+            "Llevar agua, crema solar, toalla, chanclas y bañador.",
+            "Dentro hay restaurante y bar. No dejan meter comida del exterior."
+        ],
         "ToDo": [
             {
                 "titulo": "...",
@@ -271,12 +231,6 @@
         ],
         "fechaPublicacion": "..."
     },
-
-
-
-
-
-    
     {
         "id": 5,
         "imagenPrincipal": "Medellin metro desde la montana",
@@ -293,9 +247,13 @@
         "texto": [
             "..."
         ],
-        "Alojamiento": ["..."],
+        "Alojamiento": [
+            "..."
+        ],
         "Fotosalojamiento": [],
-        "recomendaciones": ["..."],
+        "recomendaciones": [
+            "..."
+        ],
         "ToDo": [
             {
                 "titulo": "...",
@@ -310,11 +268,5 @@
             }
         ],
         "fechaPublicacion": "..."
-
-
-        
     }
-
-
-    
 ]
