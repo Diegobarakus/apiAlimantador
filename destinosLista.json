@@ -16,7 +16,7 @@
         "pais": "Colombia",
         "region": "Caribe",
         "divisa": "Peso colombiano (COP)",
-        "temperatura": 35,
+        "GeoZona": "San andrés colombia",
         "texto": [
             "Habíamos escuchado tantas veces el nombre de San Andrés que no podíamos dejar pasar la oportunidad de visitar esta isla caribeña, así que durante nuestro viaje por Colombia, decidimos pasar cuatro días allí.",
             "Cuatro días llenos de sorpresas, anécdotas y contrastes. Y es que la primera sorpresa llegó ya en el aeropuerto Jose María Cordoba de Rionegro cuando, mientras la gente hacía fila para embarcar, la azafata dijo por megafonía: 'Por favor, tengan preparados los pasaportes, la tarjeta de embarque y la tarjeta de entrada a la isla'. Cuando escuchamos esto último casi se nos salen los ojos del sitio. ¿Tarjeta de entrada a la isla? Pues sí.",
@@ -90,7 +90,7 @@
         "pais": "Colombia",
         "region": "Antioquia",
         "divisa": "Peso colombiano (COP)",
-        "temperatura": 35,
+        "GeoZona": "Guatape colombia",
         "texto": [
             "Salimos temprano de Medellín para ponernos rumbo a ver la famosa Piedra del Peñol, un monolito de 220 metros de altura. ",
             "Por delante nos esperaban alrededor de dos horas de viaje con peaje incluido (16800 COP).",
@@ -143,7 +143,7 @@
         "pais": "Colombia",
         "region": "Quindio",
         "divisa": "Peso colombiano (COP)",
-        "temperatura": 35,
+        "GeoZona": "Salento colombia",
         "texto": [
             "El viaje más largo que hicimos en coche por Colombia fue desde Medellín a Salento. Cinco horas de viaje y seis peajes (80000COP ~ 20€) después, ¡por fin llegamos a este colorido pueblito!",
             "Salento vistas hotel",
@@ -195,7 +195,7 @@
         "pais": "Colombia",
         "region": "Risaralda",
         "divisa": "Peso colombiano (COP)",
-        "temperatura": 35,
+        "GeoZona": "Santa rosa de cabal colombia",
         "texto": [
             "Después de visitar Salento y el valle del Cocorá nos pusimos rumbo a Santa Rosa de Cabal para ir a relajarnos a sus famosos termales.",
             "Tardamos alrededor de una hora y media desde Salento en coche y nos encontramos con un peaje de camino (14500 COP ~ 3,50€)",
@@ -259,7 +259,7 @@
         "pais": "Colombia",
         "region": "Antioquia",
         "divisa": "Peso colombiano (COP)",
-        "temperatura": 35,
+        "GeoZona": "Medellin colombia",
         "texto": [
             "..."
         ],
