@@ -17,6 +17,7 @@
         "region": "Caribe",
         "divisa": "Peso colombiano (COP)",
         "GeoZona": "San andrés",
+        "ZonaHoraria": "America/Bogota",
         "texto": [
             "Habíamos escuchado tantas veces el nombre de San Andrés que no podíamos dejar pasar la oportunidad de visitar esta isla caribeña, así que durante nuestro viaje por Colombia, decidimos pasar cuatro días allí.",
             "Cuatro días llenos de sorpresas, anécdotas y contrastes. Y es que la primera sorpresa llegó ya en el aeropuerto Jose María Cordoba de Rionegro cuando, mientras la gente hacía fila para embarcar, la azafata dijo por megafonía: 'Por favor, tengan preparados los pasaportes, la tarjeta de embarque y la tarjeta de entrada a la isla'. Cuando escuchamos esto último casi se nos salen los ojos del sitio. ¿Tarjeta de entrada a la isla? Pues sí.",
@@ -91,6 +92,7 @@
         "region": "Antioquia",
         "divisa": "Peso colombiano (COP)",
         "GeoZona": "Guatape",
+        "ZonaHoraria": "America/Bogota",
         "texto": [
             "Salimos temprano de Medellín para ponernos rumbo a ver la famosa Piedra del Peñol, un monolito de 220 metros de altura. ",
             "Por delante nos esperaban alrededor de dos horas de viaje con peaje incluido (16800 COP).",
@@ -144,6 +146,7 @@
         "region": "Quindio",
         "divisa": "Peso colombiano (COP)",
         "GeoZona": "Salento",
+        "ZonaHoraria": "America/Bogota",
         "texto": [
             "El viaje más largo que hicimos en coche por Colombia fue desde Medellín a Salento. Cinco horas de viaje y seis peajes (80000COP ~ 20€) después, ¡por fin llegamos a este colorido pueblito!",
             "Salento vistas hotel",
@@ -196,6 +199,7 @@
         "region": "Risaralda",
         "divisa": "Peso colombiano (COP)",
         "GeoZona": "Santa rosa de cabal",
+        "ZonaHoraria": "America/Bogota",
         "texto": [
             "Después de visitar Salento y el valle del Cocorá nos pusimos rumbo a Santa Rosa de Cabal para ir a relajarnos a sus famosos termales.",
             "Tardamos alrededor de una hora y media desde Salento en coche y nos encontramos con un peaje de camino (14500 COP ~ 3,50€)",
@@ -260,6 +264,7 @@
         "region": "Antioquia",
         "divisa": "Peso colombiano (COP)",
         "GeoZona": "Medellin",
+        "ZonaHoraria": "America/Bogota",
         "texto": [
             "..."
         ],
