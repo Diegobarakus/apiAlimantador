@@ -102,7 +102,7 @@
 
             "En un primer momento nos pedían 60000 COP por tres personas, pero negociamos (regatear es bastante común allí) y al final pagamos 50000 COP. El recorrido duró una hora y nos fueron contando la historia y anécdotas de los sitios que íbamos viendo (las casas de los famosos, el pueblo hundido, la mansión donde Pablo Escobar guardaba las armas etc.).",
             "Disfrutamos mucho del paseo en lancha y recomendamos la experiencia al 100%.",
-            "Ya terminado el paseo en lancha volvimos al coche y nos fuimos a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal, que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paragüas.",
+            "Ya terminado el paseo en lancha volvimos al coche y nos fuimos a visitar el colorido pueblo de Guatapé, que se encuentra a una media hora desde el Peñol. Cuando llegamos dejamos el coche en el parqueadero muncipipal que se encuentra a la entrada del pueblo y dimos un paseo por sus calles. Todas son bonitas y llamativas pero nos gustó en especial la plazoleta de los zocalos y la calle de los paraguas.",
 
 
 "Guatape fuente colores"
@@ -126,7 +126,7 @@
                 "precio": 60000,
                 "contacto": {
                     "nombre": "Hotel Bahía del faro",
-                    "direccion": "Guatapé, Departamento de Antioquia, Kolumbien",
+                    "direccion": "Guatapé, Departamento de Antioquia",
                     "web": "..."
                 }
             }
@@ -156,13 +156,13 @@
         "texto": [
             "El viaje más largo que hicimos en coche por Colombia fue desde Medellín a Salento. Cinco horas de viaje y seis peajes (80000COP ~ 20€) después, ¡por fin llegamos a este colorido pueblito!",
             "Salento vistas hotel",
-            "Dejamos las maletas en el hotel y sin descanso nos pusimos rumbo al Valle de Cocorá. Desde Salento al Valle se tarda una media hora y se puede ir en coche propio o en los tipicos Willys que salen de la plaza del ayuntamiento. Nosotros fuimos en coche y lo dejamos en un parking cerca del Valle por 10000 COP (~2,50€) el día.",
+            "Dejamos las maletas en el hotel y sin descanso nos pusimos rumbo al Valle de Cocorá. Desde Salento al Valle se tarda una media hora y se puede ir en coche propio o en los típicos Willys que salen de la plaza del ayuntamiento. Nosotros fuimos en coche y lo dejamos en un parking cerca del Valle por 10000 COP (~2,50€) el día.",
             " Hay diferentes entradas y en todas hay que pagar si se quiere acceder a los típicos miradores y atracciones.",
             "valle Cocora AidayDiego",
-            "Ya a pie, entramos por la segunda entrada que nos encontramos (20000 COP/persona ~ 5€) y nos dijeron que desde ahí se podían hacer diferentes recorridos. El más corto dura alrededor de una hora y media y el otro dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo."
+            "Ya a pie, entramos por la segunda entrada que nos encontramos (20000 COP/persona ~ 5€) y nos mostraron los diferentes recorridos que se pueden hacer. El más corto dura alrededor de una hora y media y el otro dura entre 3-4 horas. Nosotros hicimos el corto por falta de tiempo pero fue suficiente para verlo todo."
         ],
         "Alojamiento": [
-            "Nos alojamos en el Hotel Balcones de Salento por 100000COP (~25€) la noche para dos personas con desayuno (Habitación doble con baño privado)"
+            "Nos alojamos en el Hotel Balcones de Salento por 100000COP (~25€) la noche para dos personas con desayuno (Habitación doble con baño privado)."
         ],
         "Fotosalojamiento": [],
         "recomendaciones": [
@@ -170,23 +170,23 @@
             "Llevar agua, snacks, crema solar y spray antimosquitos.",
             "Ponte calzado cómodo, el paisaje es hermoso de ver pero dificil de recorrer. Desde colinas empinadas hasta caminos rocosos, todo forma parte del recorrido",
             "Lleva dinero en efectivo, en pocos negocios aceptan el pago con tarjeta",
-            "Lleva ropa comoda y fresca, el clima es cálido y húmedo.",
-            "No dejes objetos de valor en el coche, éste es un lugar seguro, pero es mejor prevenir."
+            "Lleva ropa cómoda y fresca, el clima es cálido y húmedo.",
+            "No dejes objetos de valor en el coche. Este es un lugar seguro, pero es mejor prevenir."
         ],
         "ToDo": [
             {
                 "titulo": "visitar el Cocora",
                 "imagen": "placeholder.png",
-                "texto": "Si solo quieres fotos bonitas o a lo mejor hacer una larga caminata por la naturaleza, este lugar es perfecto para cualquier visitante. Sus enormes palmas de cerca son impresionantes.",
-                "precio": 0,
+                "texto": "Si quieres fotos bonitas o hacer una larga caminata por la naturaleza, este lugar es perfecto para cualquier visitante. Sus enormes palmeras de cerca son impresionantes.",
+                "precio": 20000,
                 "contacto": {
                     "nombre": "...",
-                    "direccion": "...",
+                    "direccion": "Valle de Corora",
                     "web": "..."
                 }
             }
         ],
-        "fechaPublicacion": "..."
+        "fechaPublicacion": "12.03.2024"
     },
     {
         "id": 4,
