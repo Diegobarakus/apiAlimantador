@@ -74,7 +74,15 @@
                 }
             }
         ],
-        "fechaPublicacion": "27.02.24"
+        "fechaPublicacion": "27.02.24",
+        
+        "productos": [
+            {
+                "nombre": "Adaptador",
+                "imagen": "https://m.media-amazon.com/images/I/51zBq1A3uPL._AC_SX679_.jpg",
+                "link": "https://amzn.to/43klJIg",
+            }
+        ]
     },
     {
         "id": 2,
@@ -131,7 +139,15 @@
                 }
             }
         ],
-        "fechaPublicacion": "04.03.2024"
+        "fechaPublicacion": "04.03.2024",
+
+        "productos": [
+            {
+                "nombre": "...",
+                "imagen": "...",
+                "link": "...",
+            }
+        ]
     },
     {
         "id": 3,
@@ -190,7 +206,15 @@
                 }
             }
         ],
-        "fechaPublicacion": "12.03.2024"
+        "fechaPublicacion": "12.03.2024",
+
+        "productos": [
+            {
+                "nombre": "...",
+                "imagen": "...",
+                "link": "...",
+            }
+        ]
     },
     {
         "id": 4,
@@ -326,6 +350,14 @@
                 }
             }
         ],
-        "fechaPublicacion": "..."
+        "fechaPublicacion": "...",
+
+        "productos": [
+            {
+                "nombre": "...",
+                "imagen": "...",
+                "link": "...",
+            }
+        ]
     }
 ]
