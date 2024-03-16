@@ -1,9 +1,9 @@
 [
     {
         "nombre_pagina": "home",
-        "titulo_portada": "...",
-        "descrippcion_SEO": "...",
-        "imagen_portada": "...",
+        "titulo_portada": "Te contamos todo sobre tu próximo destino",
+        "descrippcion_SEO": "Blog de viajes con Informacion actualizada para viajar a destinos en todo el mundo de forma segura y economica",
+        "imagen_portada": "desplora portada",
         "texto_introduccion": [ 
             "Viajar es una actividad enriquecedora y emocionante y si planeas bien tus viajes, podrás disfrutarlos al máximo.",
             
@@ -13,6 +13,7 @@
         ],
         "texto_opcional": ["..."]
     },
+    
     {
         "nombre_pagina": "destinos",
         "titulo_portada": "...",
