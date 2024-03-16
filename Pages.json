@@ -1,0 +1,50 @@
+[
+    {
+        "nombre_pagina": "home",
+        "titulo_portada": "...",
+        "descrippcion_SEO": "...",
+        "imagen_portada": "...",
+        "texto_introduccion": [
+            "..."
+        ],
+        "texto_opcional": [
+            "..."
+        ]
+    },
+    {
+        "nombre_pagina": "destinos",
+        "titulo_portada": "...",
+        "descrippcion_SEO": "",
+        "imagen_portada": "...",
+        "texto_introduccion": [
+            "..."
+        ],
+        "texto_opcional": [
+            "..."
+        ]
+    },
+    {
+        "nombre_pagina": "vida_en_alemania",
+        "titulo_portada": "...",
+        "descrippcion_SEO": "...",
+        "imagen_portada": "...",
+        "texto_introduccion": [
+            "..."
+        ],
+        "texto_opcional": [
+            "..."
+        ]
+    },
+    {
+        "nombre_pagina": "sobre_nosotros",
+        "titulo_portada": "...",
+        "descrippcion_SEO": "",
+        "imagen_portada": "",
+        "texto_introduccion": [
+            "..."
+        ],
+        "texto_opcional": [
+            "..."
+        ]
+    }
+]
