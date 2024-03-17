@@ -20,7 +20,7 @@
         "ZonaHoraria": "America/Bogota",
         "texto": [
             "Habíamos escuchado tantas veces el nombre de San Andrés que no podíamos dejar pasar la oportunidad de visitar esta isla caribeña, así que durante nuestro viaje por Colombia, decidimos pasar cuatro días allí.",
-            "Cuatro días llenos de sorpresas, anécdotas y contrastes. Y es que la primera sorpresa llegó ya en el aeropuerto Jose María Cordoba de Rionegro cuando, mientras la gente hacía fila para embarcar, la azafata dijo por megafonía: 'Por favor, tengan preparados los pasaportes, la tarjeta de embarque y la tarjeta de entrada a la isla'. Cuando escuchamos esto último casi se nos salen los ojos del sitio. ¿Tarjeta de entrada a la isla? Pues sí.",
+            "Cuatro días llenos de sorpresas, anécdotas y contrastes. Y es que la primera sorpresa llegó ya en el aeropuerto Jose María Cordova de Rionegro cuando, mientras la gente hacía fila para embarcar, la azafata dijo por megafonía: 'Por favor, tengan preparados los pasaportes, la tarjeta de embarque y la tarjeta de entrada a la isla'. Cuando escuchamos esto último casi se nos salen los ojos del sitio. ¿Tarjeta de entrada a la isla? Pues sí.",
             "Resulta que para entrar a San Andrés hay que pagar. Y da lo mismo si eres de Colombia o no, aquí todo el mundo paga a excepción de los residentes de la isla.",
             "La parte positiva de toda esta situación es que la tarjeta de entrada la puedes comprar antes de subir al avión, así que en tierra no te vas a quedar por ese motivo. La parte negativa es que por persona cuesta 138000 COP (~33€).",
             
@@ -316,7 +316,13 @@
             "Decidimos alquilar un coche para movernos por Colombia y no nos arrepentimos en absoluto. Con él viajamos al Peñol, a Guatapé, al eje cafatero, a los termales de Santa Rosa y a varios pueblitos y eso nos permitió conocer todos esos lugares ahorrándonos un montón de tiempo sin tener que estar pendientes de horarios.",
             "El alquiler lo hicimos con la empresa 'Localiza' y fue todo genial. El coche era un Fiat Mobi con seguro a todo riesgo y dos conductores incluidos y el precio por 14 días fue de 2500000 COP (~580€)",
             "_Lugares que visitamos",
-            "Parque explora y planetario",
+            "Parque explora y planetario:",
+            "El Parque Explora de Medellín es un centro interactivo de ciencia y tecnología. Ofrece exhibiciones interactivas, espacios educativos y actividades que exploran diferentes áreas del conocimiento, incluyendo la física, la biología, la tecnología y la ecología. El parque cuenta con un acuario, un vivario, un planetario y diversos laboratorios, así como áreas al aire libre y espacios para la experimentación y el aprendizaje lúdico, diseñado para que personas de todas las edades puedan explorar y aprender de manera divertida e interactiva.",
+            "Precio de la entrada por persona para extranjeros al parque explora: 48000 COP (~11€)",
+            "Precio de la entrada por persona para extranjeros al parque explora y al planetario: 72000 COP (~17€).",
+            "(Para visitantes nacionales el precio es otro)",
+            "Duración de la visita: Recomendamos reservar al menos 5 horas para verlo todo con tiempo",
+            
             "Jardín botánico de la ciudad",
             "Pueblito Paisa y museo de la ciudad",
             "Parque de los pies descalzos",
