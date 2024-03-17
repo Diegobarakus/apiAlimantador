@@ -356,7 +356,10 @@
                 "nombre": "...",
                 "imagen": "...",
                 "link": "..."
-            },
+              }
+        ]
+    },
+
             {
         "id": 6,
         "imagenPrincipal": "Medellin metro desde la montana",
@@ -407,4 +410,5 @@
             }
         ]
     }
+            
 ]
