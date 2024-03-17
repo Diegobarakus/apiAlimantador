@@ -356,6 +356,54 @@
                 "nombre": "...",
                 "imagen": "...",
                 "link": "..."
+            },
+            {
+        "id": 6,
+        "imagenPrincipal": "Medellin metro desde la montana",
+        "galeria": [
+            "Medellin vistas",
+            "entrada_pueblito_paisa",
+            "estatua_pueblito_paisa",
+            "Aida_en_Metrocable",
+            "Aida_en_Medellin",
+            "iguana_botanico",
+            "desplora_reloj_explora"
+        ],
+        "titulo": "Avilés",
+        "SEOdescripcion": "que hacer en Avilés, alquiler de coche o auto en Avilés, como moverse por la ciudad de las hermosas costas y mujer guapa",
+        "continente": "Europa",
+        "pais": "España",
+        "region": "Asturias",
+        "divisa": "Euro",
+        "GeoZona": "Avilés",
+        "ZonaHoraria": "Europa/Madrid",
+        "texto": ["..."],
+        "Alojamiento": [
+            "..."
+        ],
+        "Fotosalojamiento": [],
+        "recomendaciones": [
+            "..."
+        ],
+        "ToDo": [
+            {
+                "titulo": "...",
+                "imagen": "...",
+                "texto": "...",
+                "precio": 0,
+                "contacto": {
+                    "nombre": "...",
+                    "direccion": "...",
+                    "web": "..."
+                }
+            }
+        ],
+        "fechaPublicacion": "...",
+        "productos": [
+            {
+                "nombre": "...",
+                "imagen": "...",
+                "link": "..."
             }
         ]
     }
