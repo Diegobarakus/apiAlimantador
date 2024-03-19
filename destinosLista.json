@@ -363,13 +363,13 @@
         ],
         "Fotosalojamiento": [],
         "recomendaciones": [
-            "En Medellín suele hacer calor, así que lleva una botella de agua contigo y protección como gorra, gafas de sol y crema solar",
+            "En Medellín suele hacer calor, así que lleva una botella de agua contigo y protección como gorra, gafas de sol y crema solar.",
             
             "La ciudad nos pareció bastante segura aunque, como en cualquier lugar, hay que ser prudente y evitar ciertas áreas después del anochecer y estar atento a tus pertenencias en lugares concurridos.",
 
             "Contrata un seguro de viaje. Eso te brindará tranquilidad y protección financiera en caso de imprevistos permitiéndote disfrutar de tus vacaciones con mayor seguridad y confianza.",
 
-            "Lleva siempre algo de dinero en efectivo ya que no en todos los sitios podrás pagar con tarjeta",
+            "Lleva siempre algo de dinero en efectivo ya que no en todos los sitios podrás pagar con tarjeta.",
             
             "Medellín se encuentra a una altitud considerable, lo que puede afectar a algunas personas. Si eres sensible a la altitud, toma medidas para adaptarte gradualmente."
             
@@ -377,7 +377,7 @@
         "ToDo": [
             {
                 "titulo": "Parque Explora",
-                "imagen": "...",
+                "imagen": "desplora_reloj_explora",
                 "texto": "experiencia educativa y divertida para todas las edades, con exhibiciones interactivas de ciencia y tecnología que inspiran el aprendizaje y la exploración.",
                 "precio": 48000,
                 "contacto": {
@@ -388,18 +388,18 @@
             },
             
              {
-                "titulo": "...",
-                "imagen": "...",
-                "texto": "...",
+                "titulo": "Jardín botánico",
+                "imagen": "iguana_botanico",
+                "texto": "Disfruta de una impresionante variedad de plantas tropicales, aprende sobre la biodiversidad local y relájate en un entorno natural.",
                 "precio": 0,
                 "contacto": {
-                    "nombre": "...",
-                    "direccion": "...",
-                    "web": "..."
+                    "nombre": "Jardín botánico de Medellín",
+                    "direccion": "Calle 73 # 51 D 14",
+                    "web": "https://www.botanicomedellin.org/"
                 }
             }
         ],
-        "fechaPublicacion": "...",
+        "fechaPublicacion": "19.03.2024",
         "productos": [
             {
                 "nombre": "...",
