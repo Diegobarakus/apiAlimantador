@@ -6,7 +6,7 @@
         "imagen_portada": "desplora portada",
         "texto_introduccion": [ 
 
-              "Un viaje se vive 3 veces: cuando lo soñamos, cuando lo vivimos y cuando lo recordamos",
+              "Un viaje se vive 3 veces: cuando lo soñamos, cuando lo vivimos y cuando lo recordamos.",
             
             "_¡Bienvenid@s a Desplora!",
           
@@ -17,7 +17,7 @@
 
             "Si tienes un destino en mente, puedes buscarlo en la barra de navegación o si no sabes a donde ir, te recomendamos algunos destinos que te podrían interesar."
         ],
-        "texto_opcional": ["¿Quieres ver más contenido interesante sobre viajes?", "Entonces, síguenos en nuestras redes sociales"]
+        "texto_opcional": ["¿Quieres ver más contenido interesante sobre viajes?", "¡Síguenos en nuestras redes sociales!"]
     },
     
     {
