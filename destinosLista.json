@@ -376,6 +376,18 @@
         ],
         "ToDo": [
             {
+                "titulo": "Parque Explora",
+                "imagen": "...",
+                "texto": "experiencia educativa y divertida para todas las edades, con exhibiciones interactivas de ciencia y tecnología que inspiran el aprendizaje y la exploración.",
+                "precio": 48000,
+                "contacto": {
+                    "nombre": "Parque Explora",
+                    "direccion": "CARRERA 52 N. 73 - 75",
+                    "web": "https://www.parqueexplora.org/"
+                }
+            },
+            
+             {
                 "titulo": "...",
                 "imagen": "...",
                 "texto": "...",
