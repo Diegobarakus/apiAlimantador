@@ -40,19 +40,6 @@
 
 ],
   "categoria": ["migrar", "trabajar"]
-},
-
-  {
-"id": 2,
-"titulo": "Estudiar en Alemania",
-"texto": "Estudiar en Alemania",
-    "categoria": ["trabajar", "estudiar"]
-},
-
-  {
-"id": 3,
-"titulo": "Fiesta en Alemania",
-"texto": "Las fiestas aca son aburridas",
-    "categoria": ["comer", "trabajar", "bailar"]
-  }
+}
+  
 ]
