@@ -1,6 +1,6 @@
 [
     {
-        "nombre_pagina": "home",
+        "nombre_pagina": "Home",
         "titulo_portada": "Te contamos todo sobre tu próximo destino",
         "descrippcion_SEO": "Blog de viajes con Informacion actualizada para viajar a destinos en todo el mundo de forma segura y economica",
         "imagen_portada": "desplora portada",
@@ -21,7 +21,7 @@
     },
     
     {
-        "nombre_pagina": "destinos",
+        "nombre_pagina": "Destinos",
         "titulo_portada": "...",
         "descrippcion_SEO": "",
         "imagen_portada": "...",
@@ -33,8 +33,8 @@
         ]
     },
     {
-        "nombre_pagina": "vida_en_alemania",
-        "titulo_portada": "...",
+        "nombre_pagina": "Vida en Alemania",
+        "titulo_portada": "Te contamos como es vivir en Alemania",
         "descrippcion_SEO": "...",
         "imagen_portada": "...",
         "texto_introduccion": [
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "nombre_pagina": "sobre_nosotros",
+        "nombre_pagina": "Sobre nosotros",
         "titulo_portada": "...",
         "descrippcion_SEO": "",
         "imagen_portada": "",
