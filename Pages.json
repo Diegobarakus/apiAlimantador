@@ -2,7 +2,7 @@
     {
         "nombre_pagina": "Home",
         "titulo_portada": "Te contamos todo sobre tu próximo destino",
-        "descrippcion_SEO": "Blog de viajes con Informacion actualizada para viajar a destinos en todo el mundo de forma segura y economica",
+        "descrippcion_SEO": "Blog de viajes con informacion actualizada para viajar a destinos en todo el mundo de forma segura y economica",
         "imagen_portada": "desplora portada",
         "texto_introduccion": [ 
 
@@ -23,7 +23,7 @@
     {
         "nombre_pagina": "Destinos",
         "titulo_portada": "...",
-        "descrippcion_SEO": "",
+        "descrippcion_SEO": "Viajar, buscar vuelos, destinos economicos, colombia, españa, america, europa",
         "imagen_portada": "...",
         "texto_introduccion": [
             "..."
@@ -35,7 +35,7 @@
     {
         "nombre_pagina": "Vida en Alemania",
         "titulo_portada": "Te contamos como es vivir en Alemania", 
-        "descrippcion_SEO": "...",
+        "descrippcion_SEO": "Alemania, trabajar en Alemania, vivir en Alemania, visitar Alemania",
         "imagen_portada": "vivir_en_alemania",
         "texto_introduccion": [
             "Si alguna vez te has planetado visitar Alemania, ya sea de vacaciones o venir a vivir y trabajar aquí una temporada, te contamos como fueron nuestros inicios en el país.",
@@ -53,7 +53,17 @@
         "descrippcion_SEO": "",
         "imagen_portada": "Aida_y_Diego",
         "texto_introduccion": [
-            "..."
+            "¡Hola! Somos Aida y Diego, dos aventureros apasionados por los viajes.",
+
+"Nos encanta descubrir nuevos lugares, culturas y experiencias. Desde las bulliciosas ciudades hasta los rincones más remotos del planeta, siempre estamos buscando la próxima aventura.",
+
+"En esta página compartimos nuestras experiencias viajeras a través de fotos, videos y relatos para inspirar a las demás personas y que se animen a vivir aventuras como las nuestras. También en nuestras redes sociales compartimos información útil y consejos a tener en cuenta a la hora de planear un viaje.",
+
+"Creemos que viajar es una de las mejores formas de aprender y crecer como personas. Cada viaje nos abre la mente a nuevas ideas y nos permite conocer gente maravillosa de diferentes culturas.",
+
+"Si tú también eres un amante de los viajes, te invitamos a unirte a nuestra comunidad. Comparte tus experiencias, consejos e historias en los comentarios.",
+            "¡Juntos podemos ayudarnos a recorrer el mundo!"
+            
         ],
         "texto_opcional": [
             "..."
